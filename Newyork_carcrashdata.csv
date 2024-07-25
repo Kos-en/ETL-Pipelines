@@ -1,0 +1,1417 @@
+"crash_date","crash_time","borough","zip_code","latitude","longitude","location","on_street_name","off_street_name","cross_street_name","number_of_persons_injured","number_of_persons_killed","number_of_pedestrians_injured","number_of_pedestrians_killed","number_of_cyclist_injured","number_of_cyclist_killed","number_of_motorist_injured","number_of_motorist_killed","contributing_factor_vehicle_1","contributing_factor_vehicle_2","contributing_factor_vehicle_3","contributing_factor_vehicle_4","contributing_factor_vehicle_5","collision_id","vehicle_type_code1","vehicle_type_code2","vehicle_type_code_3","vehicle_type_code_4","vehicle_type_code_5"
+"2021-09-11T00:00:00.000","2:39",,,,,,"WHITESTONE EXPRESSWAY","20 AVENUE",,"2","0","0","0","0","0","2","0","Aggressive Driving/Road Rage","Unspecified",,,,"4455765","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","11:45",,,,,,"QUEENSBORO BRIDGE UPPER",,,"1","0","0","0","0","0","1","0","Pavement Slippery",,,,,"4513547","Sedan",,,,
+"2022-06-29T00:00:00.000","6:55",,,,,,"THROGS NECK BRIDGE",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4541903","Sedan","Pick-up Truck",,,
+"2021-09-11T00:00:00.000","9:35","BROOKLYN","11208","40.667202","-73.8665","
+,  
+(40.667202, -73.8665)",,,"1211      LORING AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456314","Sedan",,,,
+"2021-12-14T00:00:00.000","8:13","BROOKLYN","11233","40.683304","-73.917274","
+,  
+(40.683304, -73.917274)","SARATOGA AVENUE","DECATUR STREET",,"0","0","0","0","0","0","0","0",,,,,,"4486609",,,,,
+"2021-04-14T00:00:00.000","12:47",,,,,,"MAJOR DEEGAN EXPRESSWAY RAMP",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4407458","Dump","Sedan",,,
+"2021-12-14T00:00:00.000","17:05",,,"40.709183","-73.956825","
+,  
+(40.709183, -73.956825)","BROOKLYN QUEENS EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4486555","Sedan","Tractor Truck Diesel",,,
+"2021-12-14T00:00:00.000","8:17","BRONX","10475","40.86816","-73.83148","
+,  
+(40.86816, -73.83148)",,,"344       BAYCHESTER AVENUE","2","0","0","0","0","0","2","0","Unspecified","Unspecified",,,,"4486660","Sedan","Sedan",,,
+"2021-12-14T00:00:00.000","21:10","BROOKLYN","11207","40.67172","-73.8971","
+,  
+(40.67172, -73.8971)",,,"2047      PITKIN AVENUE","0","0","0","0","0","0","0","0","Driver Inexperience","Unspecified",,,,"4487074","Sedan",,,,
+"2021-12-14T00:00:00.000","14:58","MANHATTAN","10017","40.75144","-73.97397","
+,  
+(40.75144, -73.97397)","3 AVENUE","EAST 43 STREET",,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4486519","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-13T00:00:00.000","0:34",,,"40.701275","-73.88887","
+,  
+(40.701275, -73.88887)","MYRTLE AVENUE",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4486934","Station Wagon/Sport Utility Vehicle",,,,
+"2021-12-14T00:00:00.000","16:50","QUEENS","11413","40.675884","-73.75577","
+,  
+(40.675884, -73.75577)","SPRINGFIELD BOULEVARD","EAST GATE PLAZA",,"0","0","0","0","0","0","0","0","Turning Improperly","Unspecified",,,,"4487127","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-14T00:00:00.000","8:30",,,,,,"broadway","west 80 street -west 81 street",,"0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4486634","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-12-14T00:00:00.000","0:59",,,"40.59662","-74.00231","
+,  
+(40.59662, -74.00231)","BELT PARKWAY",,,"0","0","0","0","0","0","0","0","Unsafe Speed",,,,,"4486564","Sedan",,,,
+"2021-12-14T00:00:00.000","23:10","QUEENS","11434","40.66684","-73.78941","
+,  
+(40.66684, -73.78941)","NORTH CONDUIT AVENUE","150 STREET",,"2","0","0","0","0","0","2","0","Reaction to Uninvolved Vehicle","Unspecified",,,,"4486635","Sedan","Sedan",,,
+"2021-12-14T00:00:00.000","17:58","BROOKLYN","11217","40.68158","-73.97463","
+,  
+(40.68158, -73.97463)",,,"480       DEAN STREET","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4486604","Tanker","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-14T00:00:00.000","20:03","BROOKLYN","11226","40.65068","-73.95881","
+,  
+(40.65068, -73.95881)",,,"878       FLATBUSH AVENUE","4","0","0","0","0","0","4","0","Steering Failure",,,,,"4486991","Sedan",,,,
+"2021-12-14T00:00:00.000","1:28",,,,,,"MEEKER AVENUE","LORIMER STREET",,"3","0","0","0","0","0","3","0","Traffic Control Disregarded","Unspecified",,,,"4486284","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-11T00:00:00.000","19:43","BRONX","10463","40.87262","-73.904686","
+,  
+(40.87262, -73.904686)","WEST KINGSBRIDGE ROAD","HEATH AVENUE",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4487040","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-12-14T00:00:00.000","14:30",,,"40.783268","-73.82485","
+,  
+(40.783268, -73.82485)","WHITESTONE EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified","Unspecified",,,"4486537","Station Wagon/Sport Utility Vehicle","Sedan","Sedan",,
+"2021-12-11T00:00:00.000","4:45","MANHATTAN","10001","40.748917","-73.993546","
+,  
+(40.748917, -73.993546)",,,"232       WEST 30 STREET","0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4486905","Station Wagon/Sport Utility Vehicle",,,,
+"2021-12-14T00:00:00.000","5:46",,,"40.744644","-73.77041","
+,  
+(40.744644, -73.77041)","LONG ISLAND EXPRESSWAY",,,"1","0","0","0","0","0","1","0","Other Vehicular","Other Vehicular",,,,"4487122","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-13T00:00:00.000","6:30","QUEENS","11372","40.75373","-73.88505","
+,  
+(40.75373, -73.88505)","82 STREET","34 AVENUE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4486967","Sedan",,,,
+"2021-12-14T00:00:00.000","3:43",,,"40.804375","-73.93742","
+,  
+(40.804375, -73.93742)","LEXINGTON AVENUE",,,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4486304","Station Wagon/Sport Utility Vehicle",,,,
+"2021-12-13T00:00:00.000","17:40","STATEN ISLAND","10301","40.63165","-74.08762","
+,  
+(40.63165, -74.08762)","VICTORY BOULEVARD","WOODSTOCK AVENUE",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4487001","Sedan","Sedan",,,
+"2021-12-14T00:00:00.000","17:31","BROOKLYN","11230","40.623104","-73.95809","
+,  
+(40.623104, -73.95809)","EAST 18 STREET","AVENUE K",,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4486516","Sedan",,,,
+"2021-12-14T00:00:00.000","20:13","BROOKLYN","11215","40.66576","-73.9845","
+,  
+(40.66576, -73.9845)",,,"366       12 STREET","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4486605","Sedan",,,,
+"2021-12-14T00:00:00.000","12:54","BROOKLYN","11217","40.687534","-73.9775","
+,  
+(40.687534, -73.9775)","FULTON STREET","SAINT FELIX STREET",,"1","0","0","0","1","0","0","0","Unspecified","Unspecified",,,,"4487052","Sedan","Bike",,,
+"2021-12-14T00:00:00.000","17:15","BROOKLYN","11211","40.710957","-73.951126","
+,  
+(40.710957, -73.951126)","GRAND STREET","UNION AVENUE",,"1","0","0","0","0","0","1","0","Passing or Lane Usage Improper","Unspecified",,,,"4486556","Bus","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-14T00:00:00.000","22:49","BRONX","10455","40.81813","-73.910126","
+,  
+(40.81813, -73.910126)",,,"713       EAGLE AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4486875","Taxi",,,,
+"2021-12-12T00:00:00.000","9:00","QUEENS","11385","40.70447","-73.90148","
+,  
+(40.70447, -73.90148)",,,"59-14     67 AVENUE","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4486933","Station Wagon/Sport Utility Vehicle",,,,
+"2021-12-14T00:00:00.000","16:25",,,"40.784615","-73.953964","
+,  
+(40.784615, -73.953964)","EAST 93 STREET",,,"1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4486581","Van","Bike",,,
+"2021-04-14T00:00:00.000","14:30",,,,,,"EASTCHESTER ROAD","PELHAM PARKWAY NORTH",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4407520","Bus",,,,
+"2021-12-16T00:00:00.000","6:59",,,,,,"KINGSLAND AVENUE","MEEKER AVENUE",,"1","0","1","0","0","0","0","0","Traffic Control Disregarded",,,,,"4486960",,,,,
+"2022-06-29T00:00:00.000","16:00",,,,,,"WILLIAMSBURG BRIDGE OUTER ROADWA",,,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4542336","Motorscooter","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-15T00:00:00.000","16:15",,,,,,"HUTCHINSON RIVER PARKWAY",,,"0","0","0","0","0","0","0","0","Pavement Slippery",,,,,"4407665","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-07T00:00:00.000","11:42",,,,,,"THROGS NECK BRIDGE",,,"1","0","0","0","0","0","1","0","Unsafe Lane Changing","Unspecified",,,,"4456591","Sedan","Sedan",,,
+"2022-07-12T00:00:00.000","17:50","BROOKLYN","11225","40.663303","-73.96049","
+,  
+(40.663303, -73.96049)",,,"44        EMPIRE BOULEVARD","0","0","0","0","0","0","0","0","Oversized Vehicle","Unspecified",,,,"4545699","Sedan",,,,
+"2022-03-23T00:00:00.000","10:00",,,,,,,,"71        EAST DRIVE","0","0","0","0","0","0","0","0","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion",,,,,"4512922","Bike",,,,
+"2021-07-09T00:00:00.000","0:43",,,"40.720535","-73.88885","
+,  
+(40.720535, -73.88885)","ELIOT AVENUE",,,"0","1","0","1","0","0","0","0","Unspecified",,,,,"4456659","Bus",,,,
+"2022-04-24T00:00:00.000","16:45",,,"40.607685","-74.13892","
+,  
+(40.607685, -74.13892)","STATEN ISLAND EXPRESSWAY",,,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4521660","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-24T00:00:00.000","4:49",,,"40.855972","-73.869896","
+,  
+(40.855972, -73.869896)","BOSTON ROAD","BRONX PARK EAST",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4521759","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-04-22T00:00:00.000","17:17",,,"40.790276","-73.9396","
+,  
+(40.790276, -73.9396)","EAST 107 STREET",,,"1","0","1","0","0","0","0","0","Traffic Control Disregarded",,,,,"4522226","E-Bike",,,,
+"2022-04-24T00:00:00.000","1:30","BROOKLYN","11220","40.642986","-74.01621","
+,  
+(40.642986, -74.01621)",,,"5610      4 AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4522015","Station Wagon/Sport Utility Vehicle",,,,
+"2022-04-24T00:00:00.000","6:00","QUEENS","11411","0.0000000","0.0000000","
+,  
+(0.0, 0.0)",,,"116-44    234 STREET","0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4521460","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-24T00:00:00.000","21:40","BRONX","10452","40.843906","-73.92413","
+,  
+(40.843906, -73.92413)","BOSCOBEL PLACE","UNIVERSITY AVENUE",,"0","0","0","0","0","0","0","0","Alcohol Involvement","Unspecified",,,,"4522156","Taxi","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-24T00:00:00.000","17:45","BRONX","10466","40.89481","-73.86183","
+,  
+(40.89481, -73.86183)","BRONX RIVER PARKWAY","EAST 233 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4521633","Sedan",,,,
+"2022-04-15T00:00:00.000","6:11",,,"0.0000000","0.0000000","
+,  
+(0.0, 0.0)","EAST 162 STREET",,,"1","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4522124","Station Wagon/Sport Utility Vehicle","E-Scooter",,,
+"2022-04-24T00:00:00.000","9:51",,,"40.85169","-73.95238","
+,  
+(40.85169, -73.95238)","CROSS BRONX EXPY",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4521937","Sedan",,,,
+"2022-04-24T00:00:00.000","0:00","BRONX","10453","40.861862","-73.91275","
+,  
+(40.861862, -73.91275)","MAJOR DEEGAN EXPRESSWAY","WEST FORDHAM ROAD",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4521801","Sedan",,,,
+"2022-03-08T00:00:00.000","20:00","BROOKLYN","11207","40.666256","-73.900215","
+,  
+(40.666256, -73.900215)",,,"360       SNEDIKER AVENUE","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4522285","Sedan",,,,
+"2022-04-24T00:00:00.000","15:35","MANHATTAN","10019","40.767242","-73.986206","
+,  
+(40.767242, -73.986206)","WEST 56 STREET","9 AVENUE",,"1","0","0","0","1","0","0","0","View Obstructed/Limited","Unspecified",,,,"4521853","Station Wagon/Sport Utility Vehicle","Bike",,,
+"2022-04-22T00:00:00.000","12:00","BROOKLYN","11230","40.62417","-73.97048","
+,  
+(40.62417, -73.97048)","AVENUE J","OCEAN PARKWAY",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4522228","Sedan","Pick-up Truck",,,
+"2022-04-24T00:00:00.000","13:10",,,"40.679955","-73.97491","
+,  
+(40.679955, -73.97491)","SAINT MARKS AVENUE","6 AVENUE",,"0","0","0","0","0","0","0","0","Turning Improperly","Unspecified",,,,"4521702","Station Wagon/Sport Utility Vehicle",,,,
+"2022-04-24T00:00:00.000","4:20","BROOKLYN","11221","40.692356","-73.94282","
+,  
+(40.692356, -73.94282)","THROOP AVENUE","DE KALB AVENUE",,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Unspecified",,,,"4522167","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-20T00:00:00.000","19:37",,,"40.78291","-73.98578","
+,  
+(40.78291, -73.98578)","HENRY HUDSON PARKWAY",,,"0","0","0","0","0","0","0","0","Driver Inexperience","Unspecified",,,,"4522196","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-24T00:00:00.000","16:14",,,"40.67308","-73.91124","
+,  
+(40.67308, -73.91124)","ROCKAWAY AVENUE",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4521758","Sedan","Sedan",,,
+"2022-04-12T00:00:00.000","19:56","BROOKLYN","11203","40.65011","-73.930214","
+,  
+(40.65011, -73.930214)","UTICA AVENUE","SNYDER AVENUE",,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4522136","Station Wagon/Sport Utility Vehicle",,,,
+"2022-04-24T00:00:00.000","0:30",,,"40.638382","-74.03668","
+,  
+(40.638382, -74.03668)","BELT PARKWAY",,,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified","Unspecified","Unspecified",,"4521469","Sedan","Sedan","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",
+"2022-04-24T00:00:00.000","20:13","QUEENS","11419","40.69261","-73.81143","
+,  
+(40.69261, -73.81143)",,,"102-24    VANWYCK EXPRESSWAY","0","0","0","0","0","0","0","0","Aggressive Driving/Road Rage",,,,,"4521859","Sedan",,,,
+"2022-04-24T00:00:00.000","15:21","QUEENS","11101","40.745235","-73.937706","
+,  
+(40.745235, -73.937706)","THOMSON AVENUE","SKILLMAN AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4521590","Sedan","Sedan",,,
+"2022-04-24T00:00:00.000","10:27",,,,,,"VANWYCK EXPRESSWAY","109 AVENUE",,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Traffic Control Disregarded",,,,"4521902","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-24T00:00:00.000","21:00","QUEENS","11106","40.758705","-73.93793","
+,  
+(40.758705, -73.93793)","21 STREET","37 AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4521684","Sedan","Sedan",,,
+"2022-04-24T00:00:00.000","21:40","QUEENS","11418","40.695156","-73.845406","
+,  
+(40.695156, -73.845406)","JAMAICA AVENUE","102 STREET",,"0","0","0","0","0","0","0","0","Reaction to Uninvolved Vehicle","Unspecified",,,,"4521858","Ambulance","Station Wagon/Sport Utility Vehicle",,,
+"2022-04-07T00:00:00.000","14:14","MANHATTAN","10017","40.748158","-73.97033","
+,  
+(40.748158, -73.97033)","1 AVENUE","EAST 41 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Passing or Lane Usage Improper",,,,"4522242","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-06-29T00:00:00.000","17:35",,,"40.609535","-73.75372","
+,  
+(40.609535, -73.75372)","BEACH CHANNEL DRIVE",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456672","Station Wagon/Sport Utility Vehicle","E-Bike",,,
+"2021-12-09T00:00:00.000","20:20","BROOKLYN","11223","40.59207","-73.96299","
+,  
+(40.59207, -73.96299)","EAST 7 STREET","CRAWFORD AVENUE",,"1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4485150","Bike",,,,
+"2021-12-09T00:00:00.000","14:50",,,"40.850018","-73.9107","
+,  
+(40.850018, -73.9107)","WEST 177 STREET",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4485116","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-12-09T00:00:00.000","2:45","QUEENS","11422","40.653023","-73.73895","
+,  
+(40.653023, -73.73895)","149 AVENUE","HUXLEY STREET",,"1","0","0","0","0","0","1","0","Alcohol Involvement",,,,,"4485026","Sedan",,,,
+"2021-12-06T00:00:00.000","22:16",,,"40.62573","-73.9564","
+,  
+(40.62573, -73.9564)","AVENUE J",,,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4485528","Sedan",,,,
+"2021-12-04T00:00:00.000","12:00","BROOKLYN","11213","40.665375","-73.934235","
+,  
+(40.665375, -73.934235)","CROWN STREET","SCHENECTADY AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4485333","Sedan","Ambulance",,,
+"2021-12-08T00:00:00.000","16:20","MANHATTAN","10128","40.776237","-73.943825","
+,  
+(40.776237, -73.943825)","EAST END AVENUE","EAST 88 STREET",,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4485234","Taxi","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-09T00:00:00.000","23:15","BROOKLYN","11218","40.640835","-73.98967","
+,  
+(40.640835, -73.98967)","12 AVENUE","41 STREET",,"1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4485355","Sedan","Bike",,,
+"2021-12-01T00:00:00.000","14:34","QUEENS","11692","40.593636","-73.797264","
+,  
+(40.593636, -73.797264)",,,"437       BEACH 68 STREET","0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4485581","Sedan","Pick-up Truck",,,
+"2021-12-10T00:00:00.000","7:00","QUEENS","11420","40.674263","-73.80453","
+,  
+(40.674263, -73.80453)",,,"122-42    134 STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4485866","Sedan",,,,
+"2021-12-07T00:00:00.000","9:20",,,"40.70476","-73.96491","
+,  
+(40.70476, -73.96491)","TAYLOR STREET",,,"0","0","0","0","0","0","0","0","Steering Failure",,,,,"4485192","Station Wagon/Sport Utility Vehicle",,,,
+"2021-12-09T00:00:00.000","8:00",,,"40.569626","-74.190735","
+,  
+(40.569626, -74.190735)","WEST SHORE EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4485214","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-07T00:00:00.000","17:08","BROOKLYN","11205","40.698463","-73.960205","
+,  
+(40.698463, -73.960205)","FLUSHING AVENUE","KENT AVENUE",,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4485437",,,,,
+"2021-12-05T00:00:00.000","8:20","BROOKLYN","11212","40.658413","-73.9171","
+,  
+(40.658413, -73.9171)",,,"393       ROCKAWAY PARKWAY","0","0","0","0","0","0","0","0","Unspecified",,,,,"4485408","Sedan",,,,
+"2021-12-08T00:00:00.000","19:30","MANHATTAN","10022","40.76175","-73.96899","
+,  
+(40.76175, -73.96899)",,,"127       EAST 58 STREET","1","0","0","0","1","0","0","0","Following Too Closely","Reaction to Uninvolved Vehicle",,,,"4484852","Station Wagon/Sport Utility Vehicle","Bike",,,
+"2021-12-08T00:00:00.000","12:00","MANHATTAN","10011","40.736614","-73.9951","
+,  
+(40.736614, -73.9951)",,,"44        WEST 14 STREET","1","0","0","0","1","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4485542","Box Truck","Bike",,,
+"2021-12-10T00:00:00.000","8:06",,,,,,"FLATBUSH AVENUE","GRAND ARMY PLAZA",,"0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4485170","Garbage or Refuse","Sedan",,,
+"2021-12-08T00:00:00.000","19:30",,,,,,"OCEAN PARKWAY",,,"4","0","0","0","0","0","4","0","Unsafe Speed","Unspecified",,,,"4485523","Taxi","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-08T00:00:00.000","22:37","STATEN ISLAND","10314","40.62121","-74.12385","
+,  
+(40.62121, -74.12385)",,,"288       MANOR ROAD","0","0","0","0","0","0","0","0","Pavement Slippery",,,,,"4484906","Sedan",,,,
+"2021-12-08T00:00:00.000","17:56",,,"40.873737","-73.90593","
+,  
+(40.873737, -73.90593)","MAJOR DEEGAN EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4485036","Sedan",,,,
+"2021-12-07T00:00:00.000","7:50",,,"40.66718","-73.95076","
+,  
+(40.66718, -73.95076)","CARROLL STREET",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4485772","Sedan","Sedan",,,
+"2021-12-08T00:00:00.000","0:44","QUEENS","11101","40.754295","-73.93946","
+,  
+(40.754295, -73.93946)","23 STREET","40 AVENUE",,"0","0","0","0","0","0","0","0","View Obstructed/Limited",,,,,"4485565","Sedan",,,,
+"2021-12-08T00:00:00.000","15:00",,,"40.588116","-73.97261","
+,  
+(40.588116, -73.97261)","AVENUE Y",,,"0","0","0","0","0","0","0","0","Passing Too Closely",,,,,"4484836","Sedan",,,,
+"2021-12-10T00:00:00.000","11:00","BRONX","10461","40.854935","-73.85822","
+,  
+(40.854935, -73.85822)",,,"2123      LURTING AVENUE","0","0","0","0","0","0","0","0","Oversized Vehicle","Unspecified",,,,"4485340","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-10T00:00:00.000","1:10",,,"40.662575","-73.93448","
+,  
+(40.662575, -73.93448)","SCHENECTADY AVENUE",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4485706","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-12-09T00:00:00.000","0:00",,,"40.7448","-73.953415","
+,  
+(40.7448, -73.953415)","47 ROAD",,,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4485384","Sedan",,,,
+"2021-12-08T00:00:00.000","18:36",,,"40.79672","-73.97618","
+,  
+(40.79672, -73.97618)","HENRY HUDSON PARKWAY",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4484799","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-09T00:00:00.000","20:30","QUEENS","11004","40.752777","-73.70743","
+,  
+(40.752777, -73.70743)",,,"269-01    76 AVENUE","0","0","0","0","0","0","0","0","Illnes",,,,,"4485077","Sedan",,,,
+"2021-12-09T00:00:00.000","10:13","BROOKLYN","11203","40.638523","-73.92607","
+,  
+(40.638523, -73.92607)","KINGS HIGHWAY","FARRAGUT ROAD",,"2","0","0","0","0","0","2","0","Traffic Control Disregarded","Traffic Control Disregarded",,,,"4485090","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","14:00","STATEN ISLAND","10301","40.637833","-74.08193","
+,  
+(40.637833, -74.08193)","CORSON AVENUE","WESTERVELT AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513697","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","1:02","MANHATTAN","10025","40.797836","-73.96946","
+,  
+(40.797836, -73.96946)","WEST 101 STREET","BROADWAY",,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Unspecified",,,,"4513935","Sedan","Moped",,,
+"2022-03-26T00:00:00.000","16:02","QUEENS","11373","40.734375","-73.87342","
+,  
+(40.734375, -73.87342)","QUEENS BOULEVARD","57 AVENUE",,"1","0","0","0","0","0","1","0","Lost Consciousness","Unspecified",,,,"4513794","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","16:05","QUEENS","11411","40.699947","-73.736626","
+,  
+(40.699947, -73.736626)","115 AVENUE","221 STREET",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4514267","Station Wagon/Sport Utility Vehicle","Bus",,,
+"2022-03-21T00:00:00.000","12:05","MANHATTAN","10018","40.75632","-73.999275","
+,  
+(40.75632, -73.999275)",,,"515       WEST 36 STREET","1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4514237","Motorcycle","Sedan",,,
+"2022-03-26T00:00:00.000","5:13","QUEENS","11418","40.69614","-73.81789","
+,  
+(40.69614, -73.81789)","131 STREET","ATLANTIC AVENUE",,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4513470","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","17:42","BROOKLYN","11234","40.631687","-73.9205","
+,  
+(40.631687, -73.9205)",,,"935       EAST 58 STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513751","Sedan",,,,
+"2022-03-26T00:00:00.000","12:18","BRONX","10466","40.88839","-73.84666","
+,  
+(40.88839, -73.84666)","LACONIA AVENUE","EAST 231 STREET",,"2","0","0","0","0","0","2","0","Failure to Yield Right-of-Way","Unspecified",,,,"4514075","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","20:10","BRONX","10462","40.844425","-73.8639","
+,  
+(40.844425, -73.8639)",,,"1706      HOLLAND AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4513857","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","15:45","BRONX","10472","40.833965","-73.8629","
+,  
+(40.833965, -73.8629)","WHITE PLAINS ROAD","CROSS BRONX EXPRESSWAY",,"2","0","0","0","0","0","2","0","Alcohol Involvement","Unspecified",,,,"4514202","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","17:55","BROOKLYN","11206","40.705738","-73.944695","
+,  
+(40.705738, -73.944695)","MANHATTAN AVENUE","BOERUM STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514347","Sedan",,,,
+"2022-03-26T00:00:00.000","0:50","BROOKLYN","11236","40.637905","-73.8878","
+,  
+(40.637905, -73.8878)","AVENUE N","EAST 102 STREET",,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4513495","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","14:05","BROOKLYN","11210","40.635063","-73.94788","
+,  
+(40.635063, -73.94788)",,,"2067      NOSTRAND AVENUE","1","0","0","0","0","0","1","0","Unsafe Speed","Unspecified",,,,"4513874","Station Wagon/Sport Utility Vehicle","Motorcycle",,,
+"2022-03-26T00:00:00.000","9:30",,,"40.804153","-73.91304","
+,  
+(40.804153, -73.91304)","BRUCKNER BOULEVARD","EAST 137 STREET",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4514263","Sedan",,,,
+"2022-03-10T00:00:00.000","8:30","BROOKLYN","11238","40.676403","-73.96287","
+,  
+(40.676403, -73.96287)","PROSPECT PLACE","GRAND AVENUE",,"4","0","0","0","0","0","4","0","Other Vehicular","Following Too Closely","Unspecified",,,"4514323","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2022-03-24T00:00:00.000","23:00","BRONX","10472","40.829777","-73.85055","
+,  
+(40.829777, -73.85055)","WATSON AVENUE","CASTLE HILL AVENUE",,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4514182","Sedan",,,,
+"2022-03-26T00:00:00.000","7:36","BROOKLYN","11209","40.613926","-74.030174","
+,  
+(40.613926, -74.030174)","FORT HAMILTON PARKWAY","97 STREET",,"0","0","0","0","0","0","0","0","Brakes Defective","Unspecified","Unspecified",,,"4513515","Station Wagon/Sport Utility Vehicle","Taxi","Sedan",,
+"2022-03-26T00:00:00.000","11:50","BROOKLYN","11236","40.635563","-73.89577","
+,  
+(40.635563, -73.89577)","EAST 94 STREET","AVENUE M",,"2","0","2","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4513663","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","17:42","QUEENS","11420","40.675167","-73.825264","
+,  
+(40.675167, -73.825264)","114 STREET","SUTTER AVENUE",,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4513953","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","1:45","MANHATTAN","10065","40.761486","-73.96061","
+,  
+(40.761486, -73.96061)","EAST 62 STREET","1 AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4513985","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","17:00","BROOKLYN","11249","40.712284","-73.964005","
+,  
+(40.712284, -73.964005)",,,"98        SOUTH 4 STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4514084","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-02-25T00:00:00.000","11:48","QUEENS","11432","40.70546","-73.7949","
+,  
+(40.70546, -73.7949)","JAMAICA AVENUE","165 STREET",,"0","0","0","0","0","0","0","0","Following Too Closely","Following Too Closely",,,,"4514144","E-Scooter","Sedan",,,
+"2022-03-26T00:00:00.000","22:51",,,"40.74967","-73.99531","
+,  
+(40.74967, -73.99531)","WEST 30 STREET",,,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4513606","Sedan",,,,
+"2022-03-26T00:00:00.000","8:21","MANHATTAN","10032","40.833786","-73.94037","
+,  
+(40.833786, -73.94037)","SAINT NICHOLAS AVENUE","WEST 159 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513564","Box Truck","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-17T00:00:00.000","8:00",,,"40.67794","-73.8023","
+,  
+(40.67794, -73.8023)","139 STREET",,,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Unspecified",,,,"4514412","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","10:30","BROOKLYN","11220","40.637985","-74.0076","
+,  
+(40.637985, -74.0076)",,,"736       56 STREET","0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4513587","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-16T00:00:00.000","9:23",,,,,,"JACKIE ROBINSON EXPY","JAMAICA AVENUE",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4487185","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","13:48","MANHATTAN","10032","40.835037","-73.93979","
+,  
+(40.835037, -73.93979)",,,"1016      SAINT NICHOLAS AVENUE","1","0","1","0","0","0","0","0",,,,,,"4513565",,,,,
+"2022-03-25T00:00:00.000","9:56",,,"40.9046","-73.852936","
+,  
+(40.9046, -73.852936)","EAST 241 STREET",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4514286","Station Wagon/Sport Utility Vehicle","Sedan","Sedan",,
+"2022-03-26T00:00:00.000","23:45","QUEENS","11104","40.742508","-73.91788","
+,  
+(40.742508, -73.91788)","47 STREET","GREENPOINT AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4513637","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","1:26",,,,,,"GOWANUS RAMP",,,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4513528","UTILITY","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-22T00:00:00.000","9:07","BROOKLYN","11238",,,,"GRAND AVENUE","GREENE AVENUE",,"1","0","1","0","0","0","0","0","Aggressive Driving/Road Rage",,,,,"4514139","Sedan",,,,
+"2022-03-26T00:00:00.000","16:00","BROOKLYN","11207","40.67046","-73.88788","
+,  
+(40.67046, -73.88788)","SUTTER AVENUE","SCHENCK AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4513833","Sedan","Sedan","Station Wagon/Sport Utility Vehicle",,
+"2022-03-26T00:00:00.000","23:17","MANHATTAN","10002","40.72224","-73.9863","
+,  
+(40.72224, -73.9863)","ESSEX STREET","EAST HOUSTON STREET",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4513887","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-23T00:00:00.000","9:00",,,"40.67639","-73.97189","
+,  
+(40.67639, -73.97189)","FLATBUSH AVENUE",,,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Unspecified",,,,"4514160","Sedan","Motorcycle",,,
+"2022-03-26T00:00:00.000","5:00",,,"40.88893","-73.86579","
+,  
+(40.88893, -73.86579)","BRONX RIVER PARKWAY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4514002","Sedan","Sedan",,,
+"2022-03-25T00:00:00.000","6:15",,,"40.80118","-73.93975","
+,  
+(40.80118, -73.93975)","EAST 120 STREET",,,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Unspecified","Unspecified",,,"4514152","Sedan","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2022-03-26T00:00:00.000","21:50",,,"40.757668","-73.95915","
+,  
+(40.757668, -73.95915)","FDR DRIVE",,,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4513626","Taxi","Sedan",,,
+"2022-03-26T00:00:00.000","21:25","BROOKLYN","11225","40.668896","-73.95339","
+,  
+(40.668896, -73.95339)",,,"200       ROGERS AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513774","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-25T00:00:00.000","18:13","BROOKLYN","11218","40.63654","-73.97707","
+,  
+(40.63654, -73.97707)",,,"604       EAST 2 STREET","2","0","0","0","0","0","2","0","Unspecified","Unspecified","Unspecified","Unspecified",,"4514376","Sedan","Sedan","Sedan","Sedan",
+"2022-03-26T00:00:00.000","20:10","BRONX","10456","40.831055","-73.905846","
+,  
+(40.831055, -73.905846)","EAST 168 STREET","3 AVENUE",,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4513982","Sedan",,,,
+"2022-03-25T00:00:00.000","12:55",,,"40.85868","-73.89922","
+,  
+(40.85868, -73.89922)","GRAND CONCOURSE",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4514220","Station Wagon/Sport Utility Vehicle","Pick-up Truck",,,
+"2022-03-23T00:00:00.000","11:00",,,"40.62466","-74.17856","
+,  
+(40.62466, -74.17856)","GULF AVENUE",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514413","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","3:05","BROOKLYN","11236","40.63947","-73.902756","
+,  
+(40.63947, -73.902756)","AVENUE J","EAST 92 STREET",,"1","0","0","0","0","0","1","0","Unspecified",,,,,"4513664","Sedan",,,,
+"2022-03-26T00:00:00.000","4:34","BRONX","10468","40.86173","-73.91182","
+,  
+(40.86173, -73.91182)","WEST FORDHAM ROAD","CEDAR AVENUE",,"1","0","0","0","0","0","1","0","Unspecified",,,,,"4513725","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","19:56","BROOKLYN","11201","40.69538","-73.985115","
+,  
+(40.69538, -73.985115)",,,"11        METROTECH CENTER","0","0","0","0","0","0","0","0","Unspecified",,,,,"4514298","Sedan",,,,
+"2022-03-26T00:00:00.000","12:40","BROOKLYN","11219","40.63063","-74.00923","
+,  
+(40.63063, -74.00923)","65 STREET","FORT HAMILTON PARKWAY",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4513573","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","1:58","BRONX","10472","40.82707","-73.87075","
+,  
+(40.82707, -73.87075)",,,"1670      WATSON AVENUE","0","0","0","0","0","0","0","0","Turning Improperly","Unspecified",,,,"4514201","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","19:56",,,"40.60548","-73.93922","
+,  
+(40.60548, -73.93922)","GERRITSEN AVENUE","AVENUE S",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4514030","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","0:30","BROOKLYN","11221","40.692593","-73.91551","
+,  
+(40.692593, -73.91551)","MADISON STREET","CENTRAL AVENUE",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4514125","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-16T00:00:00.000","15:44","MANHATTAN","10017",,,,"49 street","5 avenue",,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4514194","Bike",,,,
+"2022-03-26T00:00:00.000","20:05","BROOKLYN","11207","40.680664","-73.902626","
+,  
+(40.680664, -73.902626)","BUSHWICK AVENUE","CONWAY STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514278","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","17:54","BROOKLYN","11226","40.645718","-73.95002","
+,  
+(40.645718, -73.95002)",,,"168       EAST 29 STREET","4","0","0","0","0","0","4","0","Passing Too Closely","Unspecified",,,,"4513803","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-25T00:00:00.000","17:55",,,"40.68327","-73.95016","
+,  
+(40.68327, -73.95016)","NOSTRAND AVENUE",,,"0","0","0","0","0","0","0","0","Traffic Control Disregarded","Unspecified",,,,"4514241","Sedan","Motorcycle",,,
+"2021-12-12T00:00:00.000","9:09",,,"40.84036","-73.91807","
+,  
+(40.84036, -73.91807)","JEROME AVENUE",,,"0","1","0","1","0","0","0","0","Unspecified",,,,,"4487210","Taxi",,,,
+"2021-04-13T00:00:00.000","16:00","BROOKLYN","11222",,,,"VANDERVORT AVENUE","ANTHONY STREET",,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4407811","Sedan",,,,
+"2021-08-05T00:00:00.000","18:17",,,,,,"VERRAZANO BRIDGE",,,"0","0","0","0","0","0","0","0","Glare","Unspecified",,,,"4456746","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","16:35","BROOKLYN","11235","40.577652","-73.96344","
+,  
+(40.577652, -73.96344)",,,"3071      BRIGHTON 4 STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4513878","Station Wagon/Sport Utility Vehicle","Sedan","Station Wagon/Sport Utility Vehicle",,
+"2022-03-26T00:00:00.000","19:50","MANHATTAN","10012","40.730145","-73.99781","
+,  
+(40.730145, -73.99781)",,,"60        WASHINGTON SQUARE SOUTH","1","0","0","0","1","0","0","0","Passenger Distraction","Unspecified",,,,"4513735","E-Bike","BOX VAN",,,
+"2022-03-26T00:00:00.000","13:19","QUEENS","11420","40.67478","-73.806206","
+,  
+(40.67478, -73.806206)","ROCKAWAY BOULEVARD","132 STREET",,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4513958","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-25T00:00:00.000","8:45","BROOKLYN","11230","40.624622","-73.97598","
+,  
+(40.624622, -73.97598)",,,"1175      MC DONALD AVENUE","2","0","0","0","0","0","2","0","Unspecified","Unspecified",,,,"4514367","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","10:10","BROOKLYN","11217","40.67271","-73.97089","
+,  
+(40.67271, -73.97089)","UNION STREET","PLAZA STREET WEST",,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4513681","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","11:45",,,"40.7314","-73.926094","
+,  
+(40.7314, -73.926094)","BROOKLYN QUEENS EXPRESSWAY",,,"1","0","0","0","0","0","1","0","Reaction to Uninvolved Vehicle","Driver Inattention/Distraction",,,,"4514212","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-25T00:00:00.000","14:35",,,"40.632786","-74.13712","
+,  
+(40.632786, -74.13712)","PORT RICHMOND AVENUE","HATFIELD PLACE",,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4514420","Sedan",,,,
+"2022-03-26T00:00:00.000","14:30","STATEN ISLAND","10305","40.596733","-74.07045","
+,  
+(40.596733, -74.07045)","MCCLEAN AVENUE","SAND LANE",,"0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4513923","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","19:00","BROOKLYN","11234","40.617645","-73.92092","
+,  
+(40.617645, -73.92092)",,,"1549      EAST 56 STREET","0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4513752","Sedan",,,,
+"2022-03-26T00:00:00.000","2:05",,,,,,"PARSONS BOULEVARD","GRAND CENTRAL PARKWAY",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513924","Taxi","Pick-up Truck",,,
+"2022-03-26T00:00:00.000","16:40","BROOKLYN","11217","40.68651","-73.98378","
+,  
+(40.68651, -73.98378)",,,"436       ATLANTIC AVENUE","2","0","0","0","0","0","2","0","Passing or Lane Usage Improper","Unspecified",,,,"4513860","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-24T00:00:00.000","18:05","BROOKLYN","11206","40.69831","-73.9498","
+,  
+(40.69831, -73.9498)","MARCY AVENUE","ELLERY STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514251","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","3:35",,,"40.692455","-73.76814","
+,  
+(40.692455, -73.76814)","179 STREET",,,"1","0","0","0","0","0","1","0","Reaction to Uninvolved Vehicle","Unspecified",,,,"4513478","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-20T00:00:00.000","10:34","MANHATTAN","10024","40.778805","-73.974075","
+,  
+(40.778805, -73.974075)","WEST 76 STREET","CENTRAL PARK WEST",,"1","0","1","0","0","0","0","0","Backing Unsafely",,,,,"4514302","Sedan",,,,
+"2022-03-26T00:00:00.000","14:54","MANHATTAN","10001","40.747894","-73.989174","
+,  
+(40.747894, -73.989174)","AVENUE OF THE AMERICAS","WEST 31 STREET",,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4513708","Sedan","Taxi",,,
+"2022-03-25T00:00:00.000","6:35","BRONX","10472","40.83578","-73.871445","
+,  
+(40.83578, -73.871445)",,,"1700      CROSS BRONX EXPRESSWAY","0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4514189","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-25T00:00:00.000","14:00",,,"40.61763","-74.133575","
+,  
+(40.61763, -74.133575)","LEONARD AVENUE","FISKE AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514419","Station Wagon/Sport Utility Vehicle","Pick-up Truck",,,
+"2022-03-21T00:00:00.000","19:13",,,"40.731407","-73.99698","
+,  
+(40.731407, -73.99698)","WASHINGTON SQUARE NORTH",,,"1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514234","Sedan","Bike",,,
+"2022-03-26T00:00:00.000","5:02","BROOKLYN","11223","40.60784","-73.961975","
+,  
+(40.60784, -73.961975)","CONEY ISLAND AVENUE","QUENTIN ROAD",,"0","0","0","0","0","0","0","0","Fell Asleep","Unspecified",,,,"4513496","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-25T00:00:00.000","9:45",,,"40.752563","-73.74328","
+,  
+(40.752563, -73.74328)","CROSS ISLAND PARKWAY",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified","Unspecified",,"4514266","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",
+"2022-03-26T00:00:00.000","22:54","BROOKLYN","11217","40.67848","-73.98232","
+,  
+(40.67848, -73.98232)",,,"177       4 AVENUE","0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4513680","Taxi","Sedan",,,
+"2022-03-26T00:00:00.000","21:00","BROOKLYN","11219","40.629475","-74.004166","
+,  
+(40.629475, -74.004166)",,,"1115      63 STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513861","Sedan",,,,
+"2022-03-26T00:00:00.000","17:29","BROOKLYN","11213","40.668797","-73.93113","
+,  
+(40.668797, -73.93113)","EASTERN PARKWAY","UTICA AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4514326","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","2:10","MANHATTAN","10018","40.754707","-73.99164","
+,  
+(40.754707, -73.99164)","WEST 38 STREET","8 AVENUE",,"1","0","0","0","1","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4513739","Bike",,,,
+"2022-03-25T00:00:00.000","0:00","BRONX","10458","40.85713","-73.8808","
+,  
+(40.85713, -73.8808)","EAST FORDHAM ROAD","SOUTHERN BOULEVARD",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514180","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","4:00","BRONX","10468","40.857418","-73.89996","
+,  
+(40.857418, -73.89996)","GRAND CONCOURSE","EAST 183 STREET",,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4514209","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","4:34","QUEENS","11385","40.702972","-73.888054","
+,  
+(40.702972, -73.888054)","CENTRAL AVENUE","66 PLACE",,"0","0","0","0","0","0","0","0","Unsafe Speed",,,,,"4513795","Sedan",,,,
+"2022-03-09T00:00:00.000","11:56",,,"40.786366","-73.97598","
+,  
+(40.786366, -73.97598)","WEST 84 STREET",,,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4514297","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","14:41","BROOKLYN","11228","40.624474","-74.00668","
+,  
+(40.624474, -74.00668)","70 STREET","12 AVENUE",,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4513572","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","18:00","QUEENS","11361","40.76532","-73.771904","
+,  
+(40.76532, -73.771904)","39 AVENUE","BELL BOULEVARD",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4513591","Sedan","Sedan",,,
+"2022-03-26T00:00:00.000","13:30",,,"40.597683","-73.96686","
+,  
+(40.597683, -73.96686)","AVENUE U",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514011","Sedan",,,,
+"2022-03-26T00:00:00.000","13:20","STATEN ISLAND","10305","40.609768","-74.06969","
+,  
+(40.609768, -74.06969)","SAINT JOHNS AVENUE","TOMPKINS AVENUE",,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Unspecified",,,,"4513701","Station Wagon/Sport Utility Vehicle","4 dr sedan",,,
+"2022-03-25T00:00:00.000","21:35","MANHATTAN","10035","40.798286","-73.938705","
+,  
+(40.798286, -73.938705)",,,"231       EAST 117 STREET","0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4514155","Taxi","Sedan",,,
+"2022-03-23T00:00:00.000","21:00","QUEENS","11354","40.776764","-73.848015","
+,  
+(40.776764, -73.848015)",,,"25-03     120 STREET","0","0","0","0","0","0","0","0","Unspecified",,,,,"4514334","Sedan",,,,
+"2022-03-26T00:00:00.000","12:00","QUEENS","11377","40.747498","-73.91309","
+,  
+(40.747498, -73.91309)",,,"39-34     51 STREET","0","0","0","0","0","0","0","0","Unspecified",,,,,"4513548","Sedan",,,,
+"2022-03-26T00:00:00.000","13:28","BROOKLYN","11206","40.701637","-73.942276","
+,  
+(40.701637, -73.942276)","GRAHAM AVENUE","DEBEVOISE STREET",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4514046","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-26T00:00:00.000","19:12","QUEENS","11419","40.69349","-73.826546","
+,  
+(40.69349, -73.826546)",,,"94-39     120 STREET","0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4513581","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","21:29","QUEENS","11374","40.726463","-73.85943","
+,  
+(40.726463, -73.85943)","WETHEROLE STREET","65 ROAD",,"1","0","1","0","0","0","0","0","Unsafe Speed",,,,,"4513772","Bike",,,,
+"2022-03-25T00:00:00.000","13:21","BRONX","10458","40.856434","-73.886826","
+,  
+(40.856434, -73.886826)","EAST 188 STREET","ARTHUR AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4514221","Sedan","Sedan",,,
+"2022-03-22T00:00:00.000","8:20","BRONX","10467","40.87151","-73.87057","
+,  
+(40.87151, -73.87057)","BURKE AVENUE","BRONX PARK EAST",,"1","0","0","0","1","0","0","0","Turning Improperly","Unspecified",,,,"4514277","Sedan","Bike",,,
+"2022-03-26T00:00:00.000","22:30","BROOKLYN","11238","40.68686","-73.96758","
+,  
+(40.68686, -73.96758)",,,"386       CLINTON AVENUE","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4514166","Sedan",,,,
+"2022-03-26T00:00:00.000","11:20",,,"40.624763","-73.96518","
+,  
+(40.624763, -73.96518)","CONEY ISLAND AVENUE",,,"1","0","0","0","0","0","1","0","Alcohol Involvement","Driver Inattention/Distraction",,,,"4513691","Sedan",,,,
+"2022-03-26T00:00:00.000","18:17","QUEENS","11422","40.678417","-73.729225","
+,  
+(40.678417, -73.729225)","130 AVENUE","BROOKVILLE BOULEVARD",,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4513782","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-14T00:00:00.000","10:30","QUEENS","11433","40.692596","-73.79078","
+,  
+(40.692596, -73.79078)",,,"160-18    110 AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4514390","Station Wagon/Sport Utility Vehicle",,,,
+"2022-03-26T00:00:00.000","1:30",,,"40.734486","-73.891754","
+,  
+(40.734486, -73.891754)","CALAMUS AVENUE","72 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4514215","Pick-up Truck","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2022-03-26T00:00:00.000","3:23","BRONX","10475","40.88399","-73.82641","
+,  
+(40.88399, -73.82641)",,,"2291      NEW ENGLAND THRUWAY","1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4513994","Box Truck","Sedan",,,
+"2022-03-26T00:00:00.000","1:45","BROOKLYN","11238","40.683872","-73.95998","
+,  
+(40.683872, -73.95998)",,,"41        IRVING PLACE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4513503","Taxi","Station Wagon/Sport Utility Vehicle",,,
+"2022-03-05T00:00:00.000","14:52","MANHATTAN","10035","40.799484","-73.92929","
+,  
+(40.799484, -73.92929)",,,"30        PALADINO AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4514151","Sedan",,,,
+"2022-03-26T00:00:00.000","20:27",,,"40.70839","-74.00482","
+,  
+(40.70839, -74.00482)","FULTON STREET",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4513655","Sedan","E-Bike",,,
+"2022-03-26T00:00:00.000","18:19","MANHATTAN","10019","40.766502","-73.99418","
+,  
+(40.766502, -73.99418)","WEST 51 STREET","11 AVENUE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4514070","Sedan",,,,
+"2022-03-26T00:00:00.000","23:00","QUEENS","11420","40.676304","-73.816284","
+,  
+(40.676304, -73.816284)",,,"115-36    122 STREET","0","0","0","0","0","0","0","0","Alcohol Involvement","Unspecified","Unspecified",,,"4513952","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2022-03-26T00:00:00.000","18:00","BROOKLYN","11207","40.66447","-73.89593","
+,  
+(40.66447, -73.89593)","GEORGIA AVENUE","LIVONIA AVENUE",,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4513827","Sedan","Sedan",,,
+"2022-03-23T00:00:00.000","20:40",,,"40.709835","-74.014885","
+,  
+(40.709835, -74.014885)","WEST STREET",,,"0","0","0","0","0","0","0","0","Unsafe Speed",,,,,"4514285","Station Wagon/Sport Utility Vehicle",,,,
+"2022-04-24T00:00:00.000","11:45",,,"40.585342","-73.94157","
+,  
+(40.585342, -73.94157)","BELT PARKWAY",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4521782","Sedan",,,,
+"2021-09-11T00:00:00.000","12:01","MANHATTAN","10016","40.746395","-73.9856","
+,  
+(40.746395, -73.9856)",,,"3         EAST 31 STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4457012","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-10T00:00:00.000","11:00","BROOKLYN","11230","40.617004","-73.96912","
+,  
+(40.617004, -73.96912)","OCEAN PARKWAY","AVENUE M",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4457022","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","20:15","MANHATTAN","10013","40.718662","-74.00615","
+,  
+(40.718662, -74.00615)",,,"116       FRANKLIN STREET","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456987","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-09T00:00:00.000","8:15","BROOKLYN","11238","40.680664","-73.97028","
+,  
+(40.680664, -73.97028)",,,"590       DEAN STREET","0","0","0","0","0","0","0","0","Backing Unsafely",,,,,"4456970",,,,,
+"2021-12-10T00:00:00.000","23:07","BROOKLYN","11233","40.67392","-73.91012","
+,  
+(40.67392, -73.91012)","BERGEN STREET","EASTERN PARKWAY",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4485574","Sedan",,,,
+"2021-12-10T00:00:00.000","21:50",,,"40.806835","-73.924355","
+,  
+(40.806835, -73.924355)","MAJOR DEEGAN EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Other Vehicular",,,,,"4485894","Station Wagon/Sport Utility Vehicle",,,,
+"2021-11-27T00:00:00.000","5:40","BROOKLYN","11234","40.627735","-73.920105","
+,  
+(40.627735, -73.920105)",,,"1100      EAST 58 STREET","0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified",,,"4485637","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-09T00:00:00.000","5:15",,,"0.0000000","0.0000000","
+,  
+(0.0, 0.0)","ROCKAWAY BOULEVARD","VANWYCK EXPRESSWAY",,"1","0","0","0","0","0","1","0","Traffic Control Disregarded","Traffic Control Disregarded",,,,"4484930","Sedan","Sedan",,,
+"2021-12-08T00:00:00.000","12:58","BROOKLYN","11225","40.661263","-73.955765","
+,  
+(40.661263, -73.955765)",,,"203       LINCOLN ROAD","0","0","0","0","0","0","0","0","Unspecified",,,,,"4484996","Convertible",,,,
+"2021-12-08T00:00:00.000","17:50",,,"40.844883","-73.907295","
+,  
+(40.844883, -73.907295)","CROSS BRONX EXPY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified","Unspecified",,,"4484861","Tractor Truck Diesel","Sedan","Pick-up Truck",,
+"2021-12-10T00:00:00.000","4:30","QUEENS","11369","40.76104","-73.88162","
+,  
+(40.76104, -73.88162)",,,"30-27     87 STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4485177","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-10T00:00:00.000","21:22",,,"40.669777","-73.9583","
+,  
+(40.669777, -73.9583)","FRANKLIN AVENUE",,,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4485316","Station Wagon/Sport Utility Vehicle",,,,
+"2021-12-10T00:00:00.000","8:30","BRONX","10457","40.839443","-73.90436","
+,  
+(40.839443, -73.90436)",,,"425       CLAREMONT PARKWAY","0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4485668","Ambulance","Sedan",,,
+"2021-12-10T00:00:00.000","12:15","QUEENS","11101","40.75245","-73.94507","
+,  
+(40.75245, -73.94507)","13 STREET","QUEENS PLAZA SOUTH",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4485385","Station Wagon/Sport Utility Vehicle","Tanker",,,
+"2021-12-08T00:00:00.000","14:38","BROOKLYN","11217","40.687748","-73.980125","
+,  
+(40.687748, -73.980125)",,,"25        FLATBUSH AVENUE","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4484892","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-12-03T00:00:00.000","13:40",,,"40.87356","-73.81853","
+,  
+(40.87356, -73.81853)","HUTCHINSON RIVER PARKWAY",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified",,,"4485246","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2021-12-10T00:00:00.000","8:50","BRONX","10455","40.8176","-73.90373","
+,  
+(40.8176, -73.90373)",,,"800       EAST 156 STREET","1","0","0","0","0","0","1","0","Other Vehicular","Other Vehicular",,,,"4485893","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-12-09T00:00:00.000","19:45","BROOKLYN","11236","40.638428","-73.91275","
+,  
+(40.638428, -73.91275)","GLENWOOD ROAD","EAST 83 STREET",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4485586","Sedan",,,,
+"2021-12-10T00:00:00.000","16:07","MANHATTAN","10027","40.813885","-73.95211","
+,  
+(40.813885, -73.95211)",,,"416       WEST 129 STREET","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4485696","Sedan","AMBULANCE",,,
+"2021-12-08T00:00:00.000","6:37",,,,,,"VERRAZANO BRIDGE UPPER",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified","Unspecified","Unspecified",,"4485123","Sedan","Sedan","Sedan","Sedan",
+"2021-12-10T00:00:00.000","21:20","MANHATTAN","10028","40.77733","-73.95456","
+,  
+(40.77733, -73.95456)",,,"204       EAST 84 STREET","0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4485914","Station Wagon/Sport Utility Vehicle","Taxi",,,
+"2021-12-10T00:00:00.000","23:16",,,"40.713135","-74.00407","
+,  
+(40.713135, -74.00407)","CHAMBERS STREET",,,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4485304","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-12-09T00:00:00.000","17:21",,,"40.775486","-73.98217","
+,  
+(40.775486, -73.98217)","BROADWAY",,,"2","0","0","0","0","0","2","0","Driver Inattention/Distraction","Unspecified",,,,"4485055","Taxi","Sedan",,,
+"2021-12-09T00:00:00.000","7:30","BROOKLYN","11223","40.591137","-73.97752","
+,  
+(40.591137, -73.97752)","BOYNTON PLACE","WEST 7 STREET",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4485539","Sedan",,,,
+"2021-11-24T00:00:00.000","23:58",,,"40.865536","-73.92728","
+,  
+(40.865536, -73.92728)","BROADWAY",,,"1","0","1","0","0","0","0","0","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion",,,,,"4485241",,,,,
+"2021-12-09T00:00:00.000","17:00","MANHATTAN","10019","40.76551","-73.97795","
+,  
+(40.76551, -73.97795)",,,"140       WEST 58 STREET","1","0","0","0","1","0","0","0","Following Too Closely","Unspecified",,,,"4485153","Taxi","Bike",,,
+"2021-12-08T00:00:00.000","8:15","BROOKLYN","11230","40.63311","-73.97217","
+,  
+(40.63311, -73.97217)","OCEAN PARKWAY","18 AVENUE",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified",,,"4484897","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2021-09-11T00:00:00.000","2:20",,,"40.823772","-73.87245","
+,  
+(40.823772, -73.87245)","BRONX RIVER PARKWAY",,,"1","0","0","0","0","0","1","0","Alcohol Involvement","Unspecified",,,,"4456035","Pick-up Truck","Convertible",,,
+"2021-07-09T00:00:00.000","12:00",,,"40.84497","-73.90247","
+,  
+(40.84497, -73.90247)","ITTNER PLACE",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456704","Station Wagon/Sport Utility Vehicle","Box Truck",,,
+"2021-09-11T00:00:00.000","15:25",,,,,,"VERRAZANO BRIDGE UPPER",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456122","Sedan","Sedan",,,
+"2021-09-10T00:00:00.000","14:50",,,"40.675507","-74.00075","
+,  
+(40.675507, -74.00075)","BROOKLYN QUEENS EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4456919","Box Truck",,,,
+"2021-07-01T00:00:00.000","17:45","QUEENS","11691","40.609535","-73.75372","
+,  
+(40.609535, -73.75372)","BEACH CHANNEL DRIVE","HORTON AVENUE",,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456686","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-07T00:00:00.000","13:45","MANHATTAN","10014","40.730446","-74.00431","
+,  
+(40.730446, -74.00431)","LEROY STREET","BEDFORD STREET",,"0","0","0","0","0","0","0","0","Driver Inexperience",,,,,"4456588","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","12:00","QUEENS","11432","40.721645","-73.8026","
+,  
+(40.721645, -73.8026)",,,"80-25     165 STREET","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456879","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-07T00:00:00.000","17:30",,,"40.853477","-73.82622","
+,  
+(40.853477, -73.82622)","BRUCKNER EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456573","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","2:55","QUEENS","11420","40.66901","-73.80265","
+,  
+(40.66901, -73.80265)","135 PLACE","133 AVENUE",,"0","0","0","0","0","0","0","0","Alcohol Involvement","Unspecified",,,,"4455749","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","17:15","STATEN ISLAND","10310","40.629475","-74.1123","
+,  
+(40.629475, -74.1123)",,,"694       FOREST AVENUE","1","0","1","0","0","0","0","0","Unspecified",,,,,"4456087","Sedan",,,,
+"2021-09-03T00:00:00.000","17:14","BROOKLYN","11231","40.6843","-73.99724","
+,  
+(40.6843, -73.99724)","CLINTON STREET","DE GRAW STREET",,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456941","Station Wagon/Sport Utility Vehicle","DL",,,
+"2021-07-08T00:00:00.000","12:30",,,"40.767612","-73.950005","
+,  
+(40.767612, -73.950005)","FDR DRIVE",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4456691","Taxi","Pick-up Truck",,,
+"2021-08-23T00:00:00.000","11:50",,,"40.80066","-73.9544","
+,  
+(40.80066, -73.9544)","7 AVENUE",,,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456765","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","21:34","BRONX","10469","40.87645","-73.848175","
+,  
+(40.87645, -73.848175)","BOSTON ROAD","FENTON AVENUE",,"0","0","0","0","0","0","0","0","Turning Improperly","Unspecified",,,,"4456435","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","11:30","QUEENS","11373","40.737865","-73.876144","
+,  
+(40.737865, -73.876144)",,,"87-46     52 AVENUE","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456181","Sedan","Sedan",,,
+"2021-09-06T00:00:00.000","10:34",,,"40.764103","-73.93277","
+,  
+(40.764103, -73.93277)","21 STREET","33 ROAD",,"1","0","0","0","0","0","1","0","Reaction to Uninvolved Vehicle","Unspecified",,,,"4456550","Sedan","Sedan",,,
+"2021-07-08T00:00:00.000","15:56",,,"40.66735","-73.76994","
+,  
+(40.66735, -73.76994)","BELT PARKWAY",,,"1","0","0","0","0","0","1","0","Other Vehicular","Following Too Closely",,,,"4456615","Sedan","Sedan",,,
+"2021-07-07T00:00:00.000","23:06",,,"40.824265","-73.95642","
+,  
+(40.824265, -73.95642)","HENRY HUDSON PARKWAY",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456647","Sedan",,,,
+"2021-09-11T00:00:00.000","6:51",,,"40.702045","-73.9156","
+,  
+(40.702045, -73.9156)","GREENE AVENUE",,,"0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4455820","Sedan","Sedan",,,
+"2021-09-07T00:00:00.000","12:30",,,"40.85306","-73.931","
+,  
+(40.85306, -73.931)","SAINT NICHOLAS AVENUE",,,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456845","Sedan",,,,
+"2021-09-11T00:00:00.000","4:10","MANHATTAN","10033","0.0000000","0.0000000","
+,  
+(0.0, 0.0)","WEST 181 STREET","FORT WASHINGTON AVENUE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4456191","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-07-08T00:00:00.000","9:25",,,"40.697315","-73.932274","
+,  
+(40.697315, -73.932274)","BUSHWICK AVENUE",,,"0","0","0","0","0","0","0","0","Turning Improperly","Unspecified",,,,"4456586","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","6:40",,,"40.679344","-73.859535","
+,  
+(40.679344, -73.859535)","LIBERTY AVENUE",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified","Unspecified",,,"4456718","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","17:35","QUEENS","11435","40.708923","-73.81877","
+,  
+(40.708923, -73.81877)",,,"137-65    QUEENS BOULEVARD","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456821","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","17:17","STATEN ISLAND","10304","40.60203","-74.09572","
+,  
+(40.60203, -74.09572)","ROME AVENUE","UPTON STREET",,"1","0","0","0","0","0","1","0","Lost Consciousness","Unspecified",,,,"4456608","Sedan","Sedan",,,
+"2021-09-10T00:00:00.000","3:00",,,"40.693787","-73.81173","
+,  
+(40.693787, -73.81173)","VAN WYCK EXPWY",,,"1","0","0","0","0","0","1","0","Unsafe Speed","Unspecified",,,,"4456531","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","5:59","BRONX","10459","40.826767","-73.888855","
+,  
+(40.826767, -73.888855)","EAST 167 STREET","BRYANT AVENUE",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified",,,"4455832","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2021-09-09T00:00:00.000","11:39","STATEN ISLAND","10306","40.56692","-74.116234","
+,  
+(40.56692, -74.116234)","CLAWSON STREET","PRINCETON AVENUE",,"1","0","0","0","0","0","1","0","Passing or Lane Usage Improper","Unspecified",,,,"4456735","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-13T00:00:00.000","17:30","QUEENS","11106",,,,"33 st","31ave",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4408019","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","17:40","BROOKLYN","11228","40.623913","-74.00726","
+,  
+(40.623913, -74.00726)","12 AVENUE","71 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456734","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","22:15",,,"40.592422","-73.99508","
+,  
+(40.592422, -73.99508)","BELT PARKWAY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4455983","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","7:15","BROOKLYN","11207","40.6783","-73.88988","
+,  
+(40.6783, -73.88988)","FULTON STREET","SCHENCK AVENUE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4456323","Sedan",,,,
+"2021-09-10T00:00:00.000","17:00","QUEENS","11372","40.748962","-73.89176","
+,  
+(40.748962, -73.89176)","74 STREET","37 AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456889","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","11:33","BROOKLYN","11236","40.631508","-73.90506","
+,  
+(40.631508, -73.90506)",,,"1222      EAST 83 STREET","0","0","0","0","0","0","0","0","Driver Inexperience","Unspecified",,,,"4456679","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","21:48",,,"40.677322","-73.790955","
+,  
+(40.677322, -73.790955)","SUTPHIN BOULEVARD",,,"0","0","0","0","0","0","0","0","Alcohol Involvement","Unspecified",,,,"4456373","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2022-03-26T00:00:00.000","10:30",,,"40.57666","-73.965836","
+,  
+(40.57666, -73.965836)","BRIGHTON BEACH AVENUE",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4513885","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","19:00",,,"40.804585","-73.94782","
+,  
+(40.804585, -73.94782)","WEST 120 STREET",,,"1","0","0","0","1","0","0","0","Traffic Control Disregarded","Unspecified",,,,"4456758","Taxi","Bike",,,
+"2021-09-11T00:00:00.000","22:23","BRONX","10452","40.832916","-73.92939","
+,  
+(40.832916, -73.92939)","OGDEN AVENUE","WEST 164 STREET",,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4456498","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","15:00","QUEENS","11428","40.722515","-73.73332","
+,  
+(40.722515, -73.73332)","222 STREET","93 ROAD",,"1","0","1","0","0","0","0","0","Unspecified",,,,,"4455941","Sedan",,,,
+"2021-09-10T00:00:00.000","10:20","QUEENS","11419","40.692127","-73.83484","
+,  
+(40.692127, -73.83484)","ATLANTIC AVENUE","111 STREET",,"2","0","0","0","0","0","2","0","Failure to Yield Right-of-Way","Unsafe Speed",,,,"4456778","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","0:00","BRONX","10474","40.807537","-73.8798","
+,  
+(40.807537, -73.8798)","HALLECK STREET","VIELE AVENUE",,"0","0","0","0","0","0","0","0","Traffic Control Disregarded","Unspecified",,,,"4455883","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-06T00:00:00.000","15:01","BRONX","10467","40.878128","-73.86944","
+,  
+(40.878128, -73.86944)","BRONX BOULEVARD","EAST GUN HILL ROAD",,"0","0","0","0","0","0","0","0","Other Vehicular",,,,,"4456627","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-09T00:00:00.000","4:00",,,"40.75777","-73.854164","
+,  
+(40.75777, -73.854164)","GRAND CENTRAL PKWY",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456640","Sedan","Sedan",,,
+"2021-09-10T00:00:00.000","8:45","BROOKLYN","11212","40.6569","-73.907486","
+,  
+(40.6569, -73.907486)",,,"940       ROCKAWAY AVENUE","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456812","Sedan","Bus",,,
+"2021-09-11T00:00:00.000","11:51",,,"40.845024","-73.92632","
+,  
+(40.845024, -73.92632)","CROSS BRONX EXPY",,,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4455924","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","18:50","BRONX","10459","40.817795","-73.89319","
+,  
+(40.817795, -73.89319)","BRUCKNER BOULEVARD","TIFFANY STREET",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4455894","Station Wagon/Sport Utility Vehicle","Refrigerated Van",,,
+"2021-07-02T00:00:00.000","7:10",,,"40.81915","-73.93062","
+,  
+(40.81915, -73.93062)","MAJOR DEEGAN EXPRESSWAY",,,"1","0","0","0","0","0","1","0","Driver Inexperience","Unspecified",,,,"4456596","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-06T00:00:00.000","13:26","STATEN ISLAND","10314","40.591778","-74.12734","
+,  
+(40.591778, -74.12734)",,,"1466      MANOR ROAD","0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4456742","Sedan",,,,
+"2021-09-11T00:00:00.000","5:30","QUEENS","11101","40.753994","-73.94244","
+,  
+(40.753994, -73.94244)","21 STREET","41 AVENUE",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4455969","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","12:55","MANHATTAN","10012","40.724846","-73.999","
+,  
+(40.724846, -73.999)",,,"101       PRINCE STREET","1","0","0","0","1","0","0","0","Passing or Lane Usage Improper","Other Vehicular",,,,"4455841","Station Wagon/Sport Utility Vehicle","Bike",,,
+"2021-09-11T00:00:00.000","14:00",,,,,,"CROSS BRONX EXPY RAMP",,,"2","0","0","0","0","0","2","0","Following Too Closely","Unspecified",,,,"4456497","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-09T00:00:00.000","12:30",,,"40.822933","-73.93813","
+,  
+(40.822933, -73.93813)","WEST 147 STREET",,,"0","0","0","0","0","0","0","0","Other Vehicular","Other Vehicular",,,,"4456711","Box Truck","Sedan",,,
+"2021-09-11T00:00:00.000","13:00",,,"40.680477","-73.951164","
+,  
+(40.680477, -73.951164)","FULTON STREET",,,"1","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4456154","Sedan","E-Scooter",,,
+"2021-09-11T00:00:00.000","15:00","BROOKLYN","11203","40.648243","-73.929","
+,  
+(40.648243, -73.929)","TILDEN AVENUE","EAST 51 STREET",,"0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4456204","Sedan","Sedan",,,
+"2021-07-08T00:00:00.000","15:30","BROOKLYN","11236","40.64366","-73.90067","
+,  
+(40.64366, -73.90067)","ROCKAWAY PARKWAY","FLATLANDS AVENUE",,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456683","Sedan",,,,
+"2021-07-09T00:00:00.000","11:15",,,"40.6843","-73.94121","
+,  
+(40.6843, -73.94121)","JEFFERSON AVENUE",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456696","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-02T00:00:00.000","10:45",,,"40.602425","-74.091354","
+,  
+(40.602425, -74.091354)","TARGEE STREET",,,"1","0","0","0","0","0","1","0","Lost Consciousness","Unspecified",,,,"4456521","Sedan","Sedan",,,
+"2021-09-07T00:00:00.000","17:35","BROOKLYN","11225","40.662037","-73.95077","
+,  
+(40.662037, -73.95077)",,,"1065      NOSTRAND AVENUE","1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Driver Inattention/Distraction","Unspecified","Unspecified",,"4456865","Flat Bed","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Sedan",
+"2021-09-11T00:00:00.000","19:08","BROOKLYN","11217","40.68164","-73.98568","
+,  
+(40.68164, -73.98568)","NEVINS STREET","BUTLER STREET",,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4456389","Taxi","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","10:25","MANHATTAN","10128","40.781315","-73.94614","
+,  
+(40.781315, -73.94614)","1 AVENUE","EAST 93 STREET",,"0","0","0","0","0","0","0","0","Backing Unsafely",,,,,"4456512","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","14:00",,,"40.74498","-73.89325","
+,  
+(40.74498, -73.89325)","72 STREET","41 AVENUE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4455860","Station Wagon/Sport Utility Vehicle",,,,
+"2021-08-29T00:00:00.000","0:12",,,"40.6117","-74.13918","
+,  
+(40.6117, -74.13918)","VICTORY BOULEVARD","HARVEY AVENUE",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4456782","Motorcycle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","23:48","BROOKLYN","11234","40.616295","-73.92991","
+,  
+(40.616295, -73.92991)","FLATBUSH AVENUE","AVENUE O",,"0","0","0","0","0","0","0","0","Unsafe Speed","Passing or Lane Usage Improper",,,,"4455949","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","1:45","QUEENS","11356","40.78322","-73.84586","
+,  
+(40.78322, -73.84586)","18 AVENUE","COLLEGE POINT BOULEVARD",,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456097","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","17:13","BRONX","10469","40.87122","-73.83709","
+,  
+(40.87122, -73.83709)",,,"1851      ADEE AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456623","Sedan",,,,
+"2021-09-09T00:00:00.000","11:39","QUEENS","11416","40.680077","-73.852684","
+,  
+(40.680077, -73.852684)","86 STREET","103 AVENUE",,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456775","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-06T00:00:00.000","19:00","BRONX","10457","40.843384","-73.88987","
+,  
+(40.843384, -73.88987)",,,"1908      PROSPECT AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456664","Sedan",,,,
+"2021-09-11T00:00:00.000","17:19",,,"40.680023","-73.794624","
+,  
+(40.680023, -73.794624)","146 STREET",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified","Unspecified",,,"4456370","Sedan","Sedan","Station Wagon/Sport Utility Vehicle",,
+"2021-07-06T00:00:00.000","18:00","BROOKLYN","11222","40.72937","-73.955444","
+,  
+(40.72937, -73.955444)",,,"133       MILTON STREET","0","0","0","0","0","0","0","0","Obstruction/Debris",,,,,"4456567","Sedan",,,,
+"2021-07-05T00:00:00.000","17:20","BROOKLYN","11208","40.683754","-73.88565","
+,  
+(40.683754, -73.88565)","ELTON STREET","JAMAICA AVENUE",,"0","0","0","0","0","0","0","0","Driver Inexperience",,,,,"4456628","E-Bike",,,,
+"2021-09-11T00:00:00.000","9:10",,,"40.70413","-73.76984","
+,  
+(40.70413, -73.76984)","DUNLOP AVENUE",,,"0","0","0","0","0","0","0","0","Turning Improperly","Unspecified","Unspecified",,,"4456844","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2021-09-11T00:00:00.000","21:45","BROOKLYN","11223","40.609985","-73.96239","
+,  
+(40.609985, -73.96239)","AVENUE P","CONEY ISLAND AVENUE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4455985","Sedan",,,,
+"2021-07-09T00:00:00.000","6:51","BROOKLYN","11208","40.673676","-73.86576","
+,  
+(40.673676, -73.86576)","SUTTER AVENUE","SHERIDAN AVENUE",,"1","0","1","0","0","0","0","0","View Obstructed/Limited",,,,,"4456655","Sedan",,,,
+"2021-09-11T00:00:00.000","21:00","MANHATTAN","10168","40.751442","-73.97606","
+,  
+(40.751442, -73.97606)","LEXINGTON AVENUE","EAST 42 STREET",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4456058","Station Wagon/Sport Utility Vehicle","Bus",,,
+"2021-07-08T00:00:00.000","14:30","BRONX","10464","40.86514","-73.801544","
+,  
+(40.86514, -73.801544)",,,"1         ORCHARD BEACH ROAD","1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4456600","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","18:38","QUEENS","11375","40.72218","-73.84406","
+,  
+(40.72218, -73.84406)",,,"70-31     108 STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4455907","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","15:28","MANHATTAN","10035","40.797924","-73.9296","
+,  
+(40.797924, -73.9296)",,,"90        PALADINO AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456549","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-05T00:00:00.000","16:40",,,"40.626373","-73.99754","
+,  
+(40.626373, -73.99754)","62 STREET",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction","Unspecified",,,"4456897","Sedan","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2021-09-11T00:00:00.000","5:26",,,"40.883133","-73.882095","
+,  
+(40.883133, -73.882095)","WEST GUN HILL ROAD",,,"1","0","0","0","0","0","1","0","Lost Consciousness","Unspecified","Unspecified",,,"4456407","Sedan","Sedan","Station Wagon/Sport Utility Vehicle",,
+"2021-09-11T00:00:00.000","12:30","BRONX","10470","40.90222","-73.85589","
+,  
+(40.90222, -73.85589)",,,"4526      BRONX BOULEVARD","0","0","0","0","0","0","0","0","Aggressive Driving/Road Rage","Unspecified",,,,"4456480","Sedan",,,,
+"2021-09-10T00:00:00.000","12:10","QUEENS","11366","40.72717","-73.78739","
+,  
+(40.72717, -73.78739)","UNION TURNPIKE","181 STREET",,"0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4456829","Motorcycle","Sedan",,,
+"2021-06-26T00:00:00.000","10:30","QUEENS","11691","40.600792","-73.76711","
+,  
+(40.600792, -73.76711)",,,"31-29     DWIGHT AVENUE","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456660","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-07-01T00:00:00.000","21:00",,,"40.84434","-73.91475","
+,  
+(40.84434, -73.91475)","JEROME AVENUE",,,"0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4456715","Sedan","Sedan",,,
+"2021-04-16T00:00:00.000","17:55","BROOKLYN","11233","40.67922","-73.90405","
+,  
+(40.67922, -73.90405)","BROADWAY","CONWAY STREET",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4408080","Sedan",,,,
+"2021-09-11T00:00:00.000","13:10","MANHATTAN","10035","40.802982","-73.93815","
+,  
+(40.802982, -73.93815)",,,"129       EAST 123 STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456543","Taxi","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-04T00:00:00.000","0:58","BROOKLYN","11222","40.731544","-73.955315","
+,  
+(40.731544, -73.955315)",,,"145       JAVA STREET","1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456592","Sedan",,,,
+"2021-09-11T00:00:00.000","2:38","QUEENS","11420","40.683323","-73.80648","
+,  
+(40.683323, -73.80648)",,,"111-48    VANWYCK EXPRESSWAY","1","0","1","0","0","0","0","0","Unsafe Speed",,,,,"4456140","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-04T00:00:00.000","21:00","BROOKLYN","11222","40.732006","-73.95795","
+,  
+(40.732006, -73.95795)","FRANKLIN STREET","INDIA STREET",,"1","0","0","0","1","0","0","0","Alcohol Involvement","Unspecified",,,,"4456577","Sedan","E-Bike",,,
+"2021-09-11T00:00:00.000","18:00","BROOKLYN","11212","40.6544","-73.92044","
+,  
+(40.6544, -73.92044)","LINDEN BOULEVARD","EAST 91 STREET",,"1","0","0","0","0","0","1","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456200","Sedan","Sedan",,,
+"2021-07-02T00:00:00.000","16:45","QUEENS","11692","40.589592","-73.786385","
+,  
+(40.589592, -73.786385)",,,"57-07     SHORE FRONT PARKWAY","0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4456687","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","15:10",,,"40.736164","-73.97891","
+,  
+(40.736164, -73.97891)","EAST 22 STREET",,,"0","0","0","0","0","0","0","0","Traffic Control Disregarded","Other Vehicular",,,,"4456076","Bike","Sedan",,,
+"2021-07-03T00:00:00.000","10:18","QUEENS","11691","40.59723","-73.76237","
+,  
+(40.59723, -73.76237)","DEERFIELD ROAD","BEACH 29 STREET",,"1","0","0","0","0","0","1","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456692","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","14:40","BROOKLYN","11231","40.67393","-73.999954","
+,  
+(40.67393, -73.999954)","HAMILTON AVENUE","COURT STREET",,"2","0","0","0","0","0","2","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4456921","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","2:00",,,"40.840153","-73.88572","
+,  
+(40.840153, -73.88572)","CROSS BRONX EXPY",,,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4456350","Station Wagon/Sport Utility Vehicle","4 dr sedan",,,
+"2021-09-11T00:00:00.000","23:00",,,"40.599503","-74.067116","
+,  
+(40.599503, -74.067116)","HASTINGS STREET",,,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4456751","Sedan",,,,
+"2021-07-04T00:00:00.000","8:00","BRONX","10473","40.822456","-73.868065","
+,  
+(40.822456, -73.868065)",,,"851       NOBLE AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456619","Sedan",,,,
+"2021-09-11T00:00:00.000","15:30","BROOKLYN","11223","40.59841","-73.97592","
+,  
+(40.59841, -73.97592)",,,"2014      WEST 4 STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456001","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","14:30","QUEENS","11421","40.697083","-73.85476","
+,  
+(40.697083, -73.85476)",,,"84-22     91 STREET","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456560","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","6:00","BRONX","10470","40.896385","-73.87246","
+,  
+(40.896385, -73.87246)",,,"4203      ONEIDA AVENUE","0","0","0","0","0","0","0","0","Turning Improperly","Unspecified","Unspecified",,,"4456632","Sedan","Sedan",,,
+"2021-08-11T00:00:00.000","0:01",,,"40.695637","-73.80372","
+,  
+(40.695637, -73.80372)","105 AVENUE",,,"0","0","0","0","0","0","0","0","Unsafe Speed",,,,,"4456853","Sedan",,,,
+"2021-09-11T00:00:00.000","9:30",,,"40.69982","-73.996254","
+,  
+(40.69982, -73.996254)","BROOKLYN QUEENS EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456250","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","16:40",,,"40.590313","-74.09794","
+,  
+(40.590313, -74.09794)","JEFFERSON STREET",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456750","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","18:05",,,"40.787544","-73.82394","
+,  
+(40.787544, -73.82394)","WHITESTONE EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456089","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","2:00","BROOKLYN","11208","40.67539","-73.88113","
+,  
+(40.67539, -73.88113)","SHEPHERD AVENUE","GLENMORE AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified","Unspecified","Unspecified","4456279","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Sedan","Sedan","Station Wagon/Sport Utility Vehicle"
+"2021-09-07T00:00:00.000","8:03","STATEN ISLAND","10301","40.634007","-74.07516","
+,  
+(40.634007, -74.07516)",,,"331       BAY STREET","1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456768","E-Bike","Sedan",,,
+"2021-09-11T00:00:00.000","13:53","QUEENS","11373","40.73844","-73.88628","
+,  
+(40.73844, -73.88628)",,,"77-00     QUEENS BOULEVARD","0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4456183","Sedan","Sedan",,,
+"2021-07-08T00:00:00.000","11:50",,,"40.60855","-74.13216","
+,  
+(40.60855, -74.13216)","BRADLEY AVENUE","NORTH GANNON AVENUE",,"2","0","0","0","0","0","2","0","Driver Inattention/Distraction","Unspecified",,,,"4456582","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","14:00",,,"40.58573","-74.16865","
+,  
+(40.58573, -74.16865)",,,"2505      RICHMOND AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456789","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","7:09","BROOKLYN","11229","40.599907","-73.94664","
+,  
+(40.599907, -73.94664)","BEDFORD AVENUE","AVENUE U",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4455757","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","15:40","MANHATTAN","10035","40.806713","-73.93782","
+,  
+(40.806713, -73.93782)",,,"1871      PARK AVENUE","0","0","0","0","0","0","0","0","Driver Inexperience","Unspecified",,,,"4456604","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-07T00:00:00.000","3:00","QUEENS","11372","40.748318","-73.87742","
+,  
+(40.748318, -73.87742)","ROOSEVELT AVENUE","89 STREET",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4457032","Sedan",,,,
+"2021-07-05T00:00:00.000","6:00","QUEENS","11434","40.68651","-73.76815","
+,  
+(40.68651, -73.76815)","BAISLEY BOULEVARD","119 ROAD",,"0","0","0","0","0","0","0","0","Other Vehicular","Unspecified",,,,"4456651","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","10:48",,,,,,"BRONX RIVER PARKWAY RAMP",,,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4456045","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-10T00:00:00.000","19:15",,,"40.624203","-74.177124","
+,  
+(40.624203, -74.177124)","STATEN ISLAND EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456537","Sedan",,,,
+"2021-07-06T00:00:00.000","9:37",,,"40.744526","-73.77161","
+,  
+(40.744526, -73.77161)","CLEARVIEW EXPRESSWAY",,,"2","0","0","0","0","0","2","0","Driver Inattention/Distraction","Unspecified",,,,"4456646","Box Truck","Box Truck",,,
+"2021-07-01T00:00:00.000","15:30",,,"40.576965","-74.16974","
+,  
+(40.576965, -74.16974)","RICHMOND AVENUE","YUKON AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456631","Sedan",,,,
+"2021-07-07T00:00:00.000","18:04","BRONX","10461","40.8502","-73.8302","
+,  
+(40.8502, -73.8302)","ARNOW PLACE","WESTCHESTER AVENUE",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4456572","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-08T00:00:00.000","17:40","MANHATTAN","10013","40.715477","-73.998085","
+,  
+(40.715477, -73.998085)",,,"65        BAYARD STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4456851","Box Truck","Sedan","Sedan",,
+"2021-09-11T00:00:00.000","7:33","BROOKLYN","11229","40.611477","-73.94883","
+,  
+(40.611477, -73.94883)","BEDFORD AVENUE","AVENUE P",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4455822","Station Wagon/Sport Utility Vehicle","Taxi",,,
+"2021-07-08T00:00:00.000","11:50",,,"40.681515","-73.90412","
+,  
+(40.681515, -73.90412)","BUSHWICK AVENUE","EASTERN PARKWAY",,"1","0","0","0","0","0","1","0","Passing or Lane Usage Improper","Unspecified",,,,"4456587","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-11T00:00:00.000","8:00","BROOKLYN","11204","40.61578","-73.99995","
+,  
+(40.61578, -73.99995)","BAY RIDGE PARKWAY","NEW UTRECHT AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4455993","Ambulance","Bike",,,
+"2021-09-08T00:00:00.000","8:43","MANHATTAN","10031","40.82207","-73.94993","
+,  
+(40.82207, -73.94993)","WEST 140 STREET","AMSTERDAM AVENUE",,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456721","Sedan",,,,
+"2021-09-11T00:00:00.000","23:00","QUEENS","11368","40.74606","-73.85583","
+,  
+(40.74606, -73.85583)",,,"108-10    48 AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456186","Sedan",,,,
+"2021-09-09T00:00:00.000","12:00","QUEENS",,"40.72013","-73.79038","
+,  
+(40.72013, -73.79038)","GRAND CENTRAL PARKWAY","UTOPIA PARKWAY",,"1","0","0","0","0","0","1","0","Unspecified",,,,,"4456819","Motorcycle",,,,
+"2021-07-07T00:00:00.000","17:13","QUEENS","11433","40.688435","-73.78765","
+,  
+(40.688435, -73.78765)","LINDEN BOULEVARD","BEDELL STREET",,"1","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456609","Station Wagon/Sport Utility Vehicle","E-Bike",,,
+"2021-09-11T00:00:00.000","18:03","BRONX","10457","40.84964","-73.89661","
+,  
+(40.84964, -73.89661)","EAST 179 STREET","WASHINGTON AVENUE",,"2","0","0","0","0","0","2","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456078","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-09T00:00:00.000","17:00","QUEENS","11416","40.68329","-73.85491","
+,  
+(40.68329, -73.85491)",,,"85-01     ROCKAWAY BOULEVARD","0","0","0","0","0","0","0","0","Driver Inexperience","Unspecified",,,,"4456529","Sedan",,,,
+"2021-09-08T00:00:00.000","18:13","MANHATTAN","10027","40.812912","-73.95364","
+,  
+(40.812912, -73.95364)",,,"415       WEST 127 STREET","0","0","0","0","0","0","0","0","Driver Inexperience",,,,,"4456726","Taxi",,,,
+"2021-09-11T00:00:00.000","20:50","QUEENS","11434","40.6639","-73.7804","
+,  
+(40.6639, -73.7804)",,,"145-26    158 STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456558","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-05T00:00:00.000","0:16","QUEENS","11691","40.59312","-73.772705","
+,  
+(40.59312, -73.772705)","EDGEMERE AVENUE","BEACH 41 STREET",,"0","0","0","0","0","0","0","0","Driver Inexperience",,,,,"4456705","Sedan",,,,
+"2021-09-11T00:00:00.000","18:21",,,,,,"VERRAZANO BRIDGE LOWER",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456123","Sedan","Sedan",,,
+"2021-06-29T00:00:00.000","16:26",,,"40.596687","-73.74422","
+,  
+(40.596687, -73.74422)","BEACH 9 STREET","SEAGIRT BOULEVARD",,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4456673","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-09T00:00:00.000","3:52",,,,,,"HENRY HUDSON PARKWAY RAMP",,,"0","0","0","0","0","0","0","0","Pavement Slippery",,,,,"4456641","Sedan",,,,
+"2021-07-08T00:00:00.000","8:50",,,"40.673107","-73.99959","
+,  
+(40.673107, -73.99959)","BROOKLYN QUEENS EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4456599","Tow Truck / Wrecker","Sedan",,,
+"2021-07-09T00:00:00.000","10:38","BROOKLYN","11236","40.63874","-73.8952","
+,  
+(40.63874, -73.8952)","ROCKAWAY PARKWAY","AVENUE L",,"1","0","1","0","0","0","0","0","Tinted Windows",,,,,"4456688","Sedan",,,,
+"2021-09-11T00:00:00.000","17:45","QUEENS","11422","40.675255","-73.73207","
+,  
+(40.675255, -73.73207)","BROOKVILLE BOULEVARD","133 AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4455904","Sedan","Tow Truck / Wrecker",,,
+"2021-09-11T00:00:00.000","1:30","BRONX","10453","40.846313","-73.92385","
+,  
+(40.846313, -73.92385)",,,"1523      UNDERCLIFF AVENUE","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4455927","Dump","Sedan",,,
+"2021-09-11T00:00:00.000","2:00","BROOKLYN","11229","40.608364","-73.95727","
+,  
+(40.608364, -73.95727)","EAST 16 STREET","QUENTIN ROAD",,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456395",,,,,
+"2021-09-11T00:00:00.000","17:08",,,,,,"VERRAZANO BRIDGE UPPER",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4456745","Sedan","Sedan",,,
+"2021-07-08T00:00:00.000","23:25","BROOKLYN","11208","40.682724","-73.88539","
+,  
+(40.682724, -73.88539)","ELTON STREET","RIDGEWOOD AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456636","Station Wagon/Sport Utility Vehicle","Tractor Truck Diesel",,,
+"2021-09-11T00:00:00.000","1:20","BRONX","10473","40.80789","-73.852844","
+,  
+(40.80789, -73.852844)","SOUND VIEW AVENUE","STEPHENS AVENUE",,"0","0","0","0","0","0","0","0","Aggressive Driving/Road Rage","Aggressive Driving/Road Rage","Unspecified",,,"4456036","Sedan","Sedan","Sedan",,
+"2021-09-10T00:00:00.000","0:00",,,"40.607754","-74.13205","
+,  
+(40.607754, -74.13205)","BRADLEY AVENUE","SOUTH GANNON AVENUE",,"1","0","0","0","0","0","1","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456785","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-08T00:00:00.000","16:33","MANHATTAN","10001",,,,"WEST 33 STREET","7 AVENUE",,"0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4456517","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-09-10T00:00:00.000","11:17",,,"40.708324","-73.84314","
+,  
+(40.708324, -73.84314)","JACKIE ROBINSON PKWY",,,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4456764","Taxi",,,,
+"2021-09-10T00:00:00.000","17:08","MANHATTAN","10029","40.79194","-73.95281","
+,  
+(40.79194, -73.95281)",,,"1212      5 AVENUE","1","0","0","0","0","0","1","0","Unspecified","Unspecified","Unspecified","Unspecified","Unspecified","4456791","Taxi","Sedan","Sedan","Sedan",
+"2021-07-08T00:00:00.000","17:55","MANHATTAN","10002","40.718792","-73.98902","
+,  
+(40.718792, -73.98902)","DELANCEY STREET","LUDLOW STREET",,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified",,,,"4456614","Motorcycle",,,,
+"2021-09-11T00:00:00.000","13:35",,,"40.86463","-73.892136","
+,  
+(40.86463, -73.892136)","EAST 194 STREET",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4455863","Sedan",,,,
+"2021-09-11T00:00:00.000","0:50","BROOKLYN","11207","40.67856","-73.889015","
+,  
+(40.67856, -73.889015)","FULTON STREET","BARBEY STREET",,"0","0","0","0","0","0","0","0","Fell Asleep","Unspecified","Unspecified",,,"4456313","Sedan","Sedan","Sedan",,
+"2021-09-11T00:00:00.000","3:00",,,"40.721474","-73.98383","
+,  
+(40.721474, -73.98383)","EAST HOUSTON STREET",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456409","Tow Truck / Wrecker","Garbage or Refuse",,,
+"2021-09-11T00:00:00.000","4:41","MANHATTAN","10029","40.79184","-73.93556","
+,  
+(40.79184, -73.93556)","EAST 111 STREET","FDR DRIVE",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4455916","Sedan",,,,
+"2021-09-11T00:00:00.000","21:05",,,"40.78076","-73.825424","
+,  
+(40.78076, -73.825424)","WHITESTONE EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456096","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","20:59",,,"40.7359","-73.91338","
+,  
+(40.7359, -73.91338)","BROOKLYN QUEENS EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified","Unspecified",,"4456878","Sedan","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",
+"2021-07-04T00:00:00.000","22:22",,,,,,"LAYTON AVENUE","THROGMORTAN AVENUE",,"1","0","1","0","0","0","0","0",,,,,,"4456568",,,,,
+"2021-09-10T00:00:00.000","21:03","MANHATTAN","10002","40.710697","-73.984634","
+,  
+(40.710697, -73.984634)",,,"299       SOUTH STREET","1","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456953","Sedan","E-Scooter",,,
+"2021-09-10T00:00:00.000","14:35",,,"40.760777","-73.95702","
+,  
+(40.760777, -73.95702)","FDR DRIVE",,,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4456522","Sedan","Pick-up Truck",,,
+"2021-06-26T00:00:00.000","17:23","BRONX","10474","40.81358","-73.89385","
+,  
+(40.81358, -73.89385)",,,"770       BARRY STREET","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456700","Sedan",,,,
+"2021-09-11T00:00:00.000","23:18",,,"40.575302","-73.98453","
+,  
+(40.575302, -73.98453)","SURF AVENUE",,,"1","0","0","0","0","0","1","0","Passing or Lane Usage Improper","Turning Improperly",,,,"4456023","Sedan","Sedan",,,
+"2021-09-10T00:00:00.000","13:10","BROOKLYN","11212","40.66843","-73.91919","
+,  
+(40.66843, -73.91919)","PITKIN AVENUE","GRAFTON STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456810","Sedan","E-Bike",,,
+"2021-09-11T00:00:00.000","15:45",,,"40.81701","-73.9595","
+,  
+(40.81701, -73.9595)","SAINT CLAIR PLACE",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456105","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","16:00","BRONX","10458","40.85755","-73.882835","
+,  
+(40.85755, -73.882835)",,,"2488      CAMBRELENG AVENUE","0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4456668","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-02T00:00:00.000","19:56",,,"40.89711","-73.88008","
+,  
+(40.89711, -73.88008)","MAJOR DEEGAN EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4456867","Sedan",,,,
+"2021-09-11T00:00:00.000","15:45",,,"40.685795","-73.911644","
+,  
+(40.685795, -73.911644)","BUSHWICK AVENUE",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4456988","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-07T00:00:00.000","22:30",,,"40.69305","-73.799446","
+,  
+(40.69305, -73.799446)","108 AVENUE","SUTPHIN BOULEVARD",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4456859","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2021-06-25T00:00:00.000","14:35","QUEENS","11691","40.609535","-73.75372","
+,  
+(40.609535, -73.75372)","BEACH CHANNEL DRIVE","HASSOCK STREET",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456663","Pick-up Truck",,,,
+"2021-07-08T00:00:00.000","18:40",,,"40.720627","-74.00522","
+,  
+(40.720627, -74.00522)","AVENUE OF THE AMERICAS",,,"0","0","0","0","0","0","0","0","Unsafe Lane Changing","Unspecified",,,,"4456624","Sedan","Sedan",,,
+"2021-07-04T00:00:00.000","4:00","QUEENS","11369","40.763496","-73.87814","
+,  
+(40.763496, -73.87814)",,,"91-07     ASTORIA BOULEVARD","1","0","1","0","0","0","0","0","Unspecified",,,,,"4456563","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-08T00:00:00.000","21:19","QUEENS","11416","40.686646","-73.849075","
+,  
+(40.686646, -73.849075)","93 STREET","95 AVENUE",,"1","0","0","0","0","0","1","0","Unsafe Speed","Unspecified","Unspecified",,,"4456656","Sedan","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2021-09-11T00:00:00.000","15:01","BROOKLYN","11235","40.579445","-73.9544","
+,  
+(40.579445, -73.9544)",,,"101       CORBIN PLACE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4456388","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-10T00:00:00.000","19:00","MANHATTAN","10019","40.762966","-73.973976","
+,  
+(40.762966, -73.973976)","5 AVENUE","EAST 57 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4456757","Sedan","Motorcycle",,,
+"2021-09-11T00:00:00.000","0:20",,,"40.76555","-73.83911","
+,  
+(40.76555, -73.83911)","VAN WYCK EXPWY",,,"3","0","0","0","0","0","3","0","Driver Inexperience","Unspecified",,,,"4455827","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-10T00:00:00.000","10:55","MANHATTAN","10028","40.779602","-73.95553","
+,  
+(40.779602, -73.95553)",,,"1280      LEXINGTON AVENUE","0","0","0","0","0","0","0","0","Backing Unsafely",,,,,"4456511","Sedan",,,,
+"2021-09-11T00:00:00.000","1:39","STATEN ISLAND","10312","40.553192","-74.164345","
+,  
+(40.553192, -74.164345)","RIDGEWOOD AVENUE","GENESEE AVENUE",,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4456741","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","18:16","BRONX","10460","40.836094","-73.883995","
+,  
+(40.836094, -73.883995)",,,"1005      EAST 174 STREET","0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4455973","E-Bike","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","12:58","BROOKLYN","11229","40.59692","-73.94122","
+,  
+(40.59692, -73.94122)",,,"3540      NOSTRAND AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456695","Sedan",,,,
+"2021-09-11T00:00:00.000","22:30","BROOKLYN","11204","40.62318","-73.98611","
+,  
+(40.62318, -73.98611)","18 AVENUE","58 STREET",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456420","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","18:55","BROOKLYN","11207","40.67562","-73.88826","
+,  
+(40.67562, -73.88826)","LIBERTY AVENUE","BARBEY STREET",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456317","Tow Truck / Wrecker","Sedan",,,
+"2021-09-07T00:00:00.000","12:42","MANHATTAN","10026","40.80609","-73.95414","
+,  
+(40.80609, -73.95414)",,,"2200      8 AVENUE","0","0","0","0","0","0","0","0","Unsafe Speed",,,,,"4456781","Sedan",,,,
+"2021-09-10T00:00:00.000","17:39","BRONX","10467","40.87739","-73.8665","
+,  
+(40.87739, -73.8665)","WHITE PLAINS ROAD","EAST GUN HILL ROAD",,"1","0","0","0","0","0","0","0","Unsafe Lane Changing","Driver Inattention/Distraction",,,,"4457006","Station Wagon/Sport Utility Vehicle","E-Bike",,,
+"2021-09-11T00:00:00.000","19:20",,,"40.689133","-73.951324","
+,  
+(40.689133, -73.951324)","NOSTRAND AVENUE",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Failure to Yield Right-of-Way",,,,"4456149","Sedan","Sedan",,,
+"2021-06-30T00:00:00.000","19:20","BRONX","10452","40.83604","-73.92222","
+,  
+(40.83604, -73.92222)",,,"2         EAST 167 STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4456667","Sedan",,,,
+"2021-09-10T00:00:00.000","20:19","MANHATTAN","10021","40.76649","-73.95696","
+,  
+(40.76649, -73.95696)","EAST 70 STREET","1 AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456885","Station Wagon/Sport Utility Vehicle",,,,
+"2021-07-08T00:00:00.000","13:26","BROOKLYN","11222","40.731613","-73.9545","
+,  
+(40.731613, -73.9545)","MANHATTAN AVENUE","JAVA STREET",,"1","0","0","0","1","0","0","0","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Unspecified",,,,"4456595","Pick-up Truck","Bike",,,
+"2021-09-11T00:00:00.000","8:45","MANHATTAN","10038","40.708324","-74.00311","
+,  
+(40.708324, -74.00311)",,,"294       PEARL STREET","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4456980","Sedan","Sedan","Sedan",,
+"2021-09-11T00:00:00.000","19:00","BROOKLYN","11203","40.65375","-73.931274","
+,  
+(40.65375, -73.931274)",,,"730       LINDEN BOULEVARD","0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified","Unspecified",,,"4456203","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2021-07-04T00:00:00.000","23:50",,,,,,"BEACH 17 STREET","SEAGRIT BOULEVARD",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456564","Sedan","Sedan",,,
+"2021-07-01T00:00:00.000","8:10","QUEENS","11691","40.60675","-73.756645","
+,  
+(40.60675, -73.756645)",,,"22-59     DIX AVENUE","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456678","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","3:00",,,,,,"GOWANUS RAMP",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified",,,"4456052","Van","Sedan","Sedan",,
+"2022-03-25T00:00:00.000","9:55","QUEENS","11101","40.743534","-73.93951","
+,  
+(40.743534, -73.93951)","28 STREET","47 AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4514217","Sedan","Sedan",,,
+"2021-09-01T00:00:00.000","19:30","QUEENS","11434","40.678364","-73.77949","
+,  
+(40.678364, -73.77949)","BREWER BOULEVARD","BAISLEY BOULEVARD",,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4456903","Sedan",,,,
+"2021-09-10T00:00:00.000","15:20","MANHATTAN","10013","40.724274","-74.01136","
+,  
+(40.724274, -74.01136)","WEST STREET","WATTS STREET",,"1","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4456982","Sedan","E-Bike",,,
+"2021-09-11T00:00:00.000","15:30",,,,,,"STATEN ISLAND EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified","Unspecified",,,"4456544","Sedan","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2021-09-11T00:00:00.000","14:34","MANHATTAN","10031","40.8188","-73.956024","
+,  
+(40.8188, -73.956024)","BROADWAY","WEST 133 STREET",,"0","0","0","0","0","0","0","0","Driver Inexperience",,,,,"4456104","Box Truck",,,,
+"2021-09-10T00:00:00.000","9:00","QUEENS","11433","40.69558","-73.788704","
+,  
+(40.69558, -73.788704)",,,"164-21    109 AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456860","Pick-up Truck",,,,
+"2021-09-11T00:00:00.000","3:25",,,"40.80484","-73.912796","
+,  
+(40.80484, -73.912796)","JACKSON AVENUE",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified","Unspecified",,,"4456454","Pick-up Truck","Sedan","Sedan",,
+"2021-09-11T00:00:00.000","1:00","BROOKLYN","11225","40.658466","-73.96049","
+,  
+(40.658466, -73.96049)",,,"609       FLATBUSH AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified","Unspecified",,,"4455840","Pick-up Truck","Sedan","Station Wagon/Sport Utility Vehicle",,
+"2021-09-11T00:00:00.000","11:25","BRONX","10468","40.868164","-73.90054","
+,  
+(40.868164, -73.90054)",,,"79        WEST KINGSBRIDGE ROAD","1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456235","Sedan","Bike",,,
+"2021-09-11T00:00:00.000","21:30","BROOKLYN","11225","40.66169","-73.96143","
+,  
+(40.66169, -73.96143)","FLATBUSH AVENUE","LEFFERTS AVENUE",,"2","0","0","0","0","0","2","0","Driver Inexperience","Unspecified",,,,"4455935","Sedan","Chassis Cab",,,
+"2021-07-09T00:00:00.000","12:30","BRONX","10467","40.87037","-73.87052","
+,  
+(40.87037, -73.87052)",,,"2970      BRONX PARK EAST","1","0","0","0","1","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456710","E-Bike","E-Bike",,,
+"2021-09-05T00:00:00.000","21:18","QUEENS","11412","40.69674","-73.76292","
+,  
+(40.69674, -73.76292)","114 DRIVE","MEXICO STREET",,"5","0","0","0","0","0","5","0","Unspecified","Unspecified",,,,"4457021","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","3:00","BROOKLYN","11207","40.65958","-73.89247","
+,  
+(40.65958, -73.89247)","SHEFFIELD AVENUE","HEGEMAN AVENUE",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456296","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","11:30",,,"40.83232","-73.87395","
+,  
+(40.83232, -73.87395)","BRONX RIVER PARKWAY",,,"3","0","0","0","0","0","3","0","Unsafe Speed","Unspecified","Unspecified",,,"4456043","Station Wagon/Sport Utility Vehicle","Sedan","Station Wagon/Sport Utility Vehicle",,
+"2021-09-11T00:00:00.000","21:35","QUEENS","11385","40.708534","-73.914925","
+,  
+(40.708534, -73.914925)","DE KALB AVENUE","ONDERDONK AVENUE",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4456227","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","16:04","QUEENS","11105","40.777496","-73.90784","
+,  
+(40.777496, -73.90784)",,,"31-20     21 AVENUE","0","0","0","0","0","0","0","0","Unspecified",,,,,"4456682","Sedan",,,,
+"2021-07-02T00:00:00.000","14:00",,,"40.83406","-73.944885","
+,  
+(40.83406, -73.944885)","BROADWAY",,,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4456576",,,,,
+"2021-09-11T00:00:00.000","23:20","QUEENS","11430","40.66615","-73.80575","
+,  
+(40.66615, -73.80575)","SOUTH CONDUIT AVENUE","134 STREET",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4456134","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-07-08T00:00:00.000","12:25",,,,,,"NEW ENGLAND THRUWAY",,,"1","0","0","0","0","0","1","0","Unspecified",,,,,"4456583","Sedan",,,,
+"2021-07-08T00:00:00.000","15:15","MANHATTAN","10039","40.82324","-73.938835","
+,  
+(40.82324, -73.938835)",,,"211       WEST 147 STREET","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456605","Sedan",,,,
+"2021-07-09T00:00:00.000","12:22","QUEENS","11435","40.6974","-73.80952","
+,  
+(40.6974, -73.80952)","143 STREET","95 AVENUE",,"0","0","0","0","0","0","0","0","Failure to Yield Right-of-Way","Unspecified",,,,"4456699","Bus","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-09T00:00:00.000","15:15",,,,,,"STATEN ISLAND EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Unsafe Speed","Unspecified",,,,"4456536","Pick-up Truck","Flat Rack",,,
+"2021-07-09T00:00:00.000","3:25","QUEENS","11434","40.67897","-73.75985","
+,  
+(40.67897, -73.75985)","MERRICK BOULEVARD","BELKNAP STREET",,"0","0","0","0","0","0","0","0","Traffic Control Disregarded","Unspecified",,,,"4456650","Sedan",,,,
+"2021-09-11T00:00:00.000","2:05","STATEN ISLAND","10304","40.590313","-74.09794","
+,  
+(40.590313, -74.09794)","GARRETSON AVENUE","JEFFERSON STREET",,"0","0","0","0","0","0","0","0","Animals Action","Unspecified","Unspecified","Unspecified","Unspecified","4456752","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle"
+"2021-07-09T00:00:00.000","0:00","BROOKLYN","11239","40.654343","-73.864204","
+,  
+(40.654343, -73.864204)",,,"11629     SEAVIEW AVENUE","0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4456637","Station Wagon/Sport Utility Vehicle",,,,
+"2021-09-11T00:00:00.000","15:30","STATEN ISLAND","10310","40.62782","-74.12126","
+,  
+(40.62782, -74.12126)","FOREST AVENUE","CLOVE ROAD",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4456769","Sedan","Sedan",,,
+"2021-09-10T00:00:00.000","21:27",,,"40.592037","-74.15436","
+,  
+(40.592037, -74.15436)",,,"1128      ROCKLAND AVENUE","2","0","0","0","0","0","2","0","Driver Inattention/Distraction","Unspecified",,,,"4456786","Sedan",,,,
+"2021-09-08T00:00:00.000","10:10",,,"40.79293","-73.950005","
+,  
+(40.79293, -73.950005)","EAST 105 STREET",,,"1","0","0","0","1","0","0","0","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Failure to Yield Right-of-Way",,,,"4456798","Sedan","Bike",,,
+"2021-09-11T00:00:00.000","10:00",,,"40.8452","-73.916885","
+,  
+(40.8452, -73.916885)","CROSS BRONX EXPY",,,"1","0","0","0","0","0","1","0","Reaction to Uninvolved Vehicle",,,,,"4456410","Motorcycle",,,,
+"2021-09-11T00:00:00.000","7:58","QUEENS","11367","40.72609","-73.830154","
+,  
+(40.72609, -73.830154)",,,"70-07     PARK DRIVE EAST","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Following Too Closely",,,,"4455912","Sedan","Sedan",,,
+"2021-09-11T00:00:00.000","16:25","MANHATTAN","10022","40.76092","-73.96704","
+,  
+(40.76092, -73.96704)","3 AVENUE","EAST 58 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4455917","Taxi","Box Truck",,,
+"2019-05-21T00:00:00.000","22:50","BROOKLYN","11201","40.69754","-73.98312","
+,  
+(40.69754, -73.98312)","GOLD STREET","CONCORD STREET",,"0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4136992","�MBU","Taxi",,,
+"2020-01-21T00:00:00.000","15:49",,,,,,"BRUCKNER BLVD","�ST 138 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4277087","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-02-26T00:00:00.000","14:50","BRONX","10461","40.843464","-73.836","
+,  
+(40.843464, -73.836)",,,"2819      MIDDLETOWN ROAD","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4395664","Station Wagon/Sport Utility Vehicle",,,,
+"2021-03-09T00:00:00.000","11:00",,,"40.692547","-73.990974","
+,  
+(40.692547, -73.990974)","COURT STREET","JORALEMON STREET",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4397513","Pick-up Truck","Sedan",,,
+"2021-03-31T00:00:00.000","22:20","BROOKLYN","11234","40.626457","-73.918","
+,  
+(40.626457, -73.918)","RALPH AVENUE","AVENUE K",,"1","0","0","0","0","0","1","0","Driver Inexperience","Unspecified",,,,"4403773","Sedan","Sedan",,,
+"2021-04-06T00:00:00.000","22:58","STATEN ISLAND","10312","40.526894","-74.16728","
+,  
+(40.526894, -74.16728)","BARCLAY AVENUE","HYLAN BOULEVARD",,"7","0","0","0","0","0","7","0","Failure to Yield Right-of-Way","Unsafe Speed",,,,"4405244","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-09T00:00:00.000","14:45",,,"40.840775","-73.87246","
+,  
+(40.840775, -73.87246)","BRONX RIVER PARKWAY",,,"1","0","0","0","0","0","1","0","Driver Inattention/Distraction","Unspecified","Unspecified","Unspecified",,"4405914","Sedan","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2021-04-14T00:00:00.000","13:00",,,,,,"MAJOR DEEGAN EXPRESSWAY RAMP",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4408191","Station Wagon/Sport Utility Vehicle","Box Truck",,,
+"2021-04-14T00:00:00.000","11:00",,,"40.694035","-73.72679","
+,  
+(40.694035, -73.72679)","CROSS ISLAND PARKWAY",,,"1","0","0","0","0","0","1","0","Brakes Defective","Unspecified",,,,"4407366","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-04-16T00:00:00.000","21:15",,,,,,"BRONX RIVER PARKWAY RAMP",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4408149","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-04-15T00:00:00.000","13:30","BRONX","10461","40.857365","-73.84657","
+,  
+(40.857365, -73.84657)",,,"1400      PELHAM PARKWAY SOUTH","0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4407778","Sedan","Ambulance",,,
+"2021-04-14T00:00:00.000","14:40",,,"40.698807","-73.91837","
+,  
+(40.698807, -73.91837)","MYRTLE AVENUE",,,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified",,,,"4407461","Box Truck","Sedan",,,
+"2021-04-14T00:00:00.000","21:43","QUEENS","11429","40.71402","-73.74827","
+,  
+(40.71402, -73.74827)",,,"211-20    99 AVENUE","0","0","0","0","0","0","0","0","Turning Improperly","Unspecified",,,,"4407407","Station Wagon/Sport Utility Vehicle",,,,
+"2021-04-16T00:00:00.000","17:40","BRONX","10474","40.815","-73.89402","
+,  
+(40.815, -73.89402)","GARRISON AVENUE","LONGWOOD AVENUE",,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4407900","Sedan","Sedan",,,
+"2021-04-16T00:00:00.000","0:50",,,"40.55079","-74.20098","
+,  
+(40.55079, -74.20098)","HUGUENOT AVENUE",,,"0","0","0","0","0","0","0","0","Driver Inexperience","Unspecified","Unspecified",,,"4407760","Sedan","Station Wagon/Sport Utility Vehicle","Sedan",,
+"2021-04-15T00:00:00.000","10:30","BROOKLYN","11207","40.655903","-73.89817","
+,  
+(40.655903, -73.89817)",,,"319       DE WITT AVENUE","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4407746","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-16T00:00:00.000","16:35","BRONX","10475","40.890076","-73.819855","
+,  
+(40.890076, -73.819855)","BOSTON ROAD","ROPES AVENUE",,"2","0","0","0","0","0","2","0","Unsafe Speed","Unspecified",,,,"4408143","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-15T00:00:00.000","17:20","BROOKLYN","11236","40.650402","-73.89422","
+,  
+(40.650402, -73.89422)","GLENWOOD ROAD","EAST 108 STREET",,"1","0","0","0","0","0","1","0","Following Too Closely","Unspecified",,,,"4407638","Sedan","Van",,,
+"2021-04-16T00:00:00.000","21:20","MANHATTAN","10025","40.79335","-73.97275","
+,  
+(40.79335, -73.97275)","WEST 94 STREET","BROADWAY",,"0","0","0","0","0","0","0","0","Backing Unsafely","Unspecified",,,,"4407958","Sedan",,,,
+"2021-04-16T00:00:00.000","17:20","MANHATTAN","10012","40.72538","-74.00011","
+,  
+(40.72538, -74.00011)","PRINCE STREET","WOOSTER STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4407885","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-04-15T00:00:00.000","14:30","QUEENS","11377","40.75184","-73.90358","
+,  
+(40.75184, -73.90358)","BROADWAY","58 STREET",,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Driver Inattention/Distraction",,,,"4407616","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-09-11T00:00:00.000","22:57",,,"40.755516","-73.961105","
+,  
+(40.755516, -73.961105)","FDR DRIVE",,,"2","0","0","0","0","0","2","0","Unsafe Speed","Unspecified",,,,"4456355","PK","Sedan",,,
+"2021-04-16T00:00:00.000","23:20","BROOKLYN","11226","40.649788","-73.9622","
+,  
+(40.649788, -73.9622)","EAST 19 STREET","CHURCH AVENUE",,"3","0","0","0","0","0","3","0","Unspecified","Unspecified","Unspecified",,,"4408038","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,
+"2021-04-16T00:00:00.000","18:15","BROOKLYN","11221","40.686928","-73.920815","
+,  
+(40.686928, -73.920815)",,,"50        HOWARD AVENUE","0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4408224","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-14T00:00:00.000","13:00","BROOKLYN","11211","40.712963","-73.93647","
+,  
+(40.712963, -73.93647)",,,"950       GRAND STREET","0","0","0","0","0","0","0","0","Passing or Lane Usage Improper","Unspecified",,,,"4407392","Pick-up Truck",,,,
+"2021-06-30T00:00:00.000","11:47","QUEENS","11412","40.694294","-73.74868","
+,  
+(40.694294, -73.74868)","203 STREET","118 AVENUE",,"0","0","0","0","0","0","0","0","Passing Too Closely","Unspecified","Unspecified",,,"4456603","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-14T00:00:00.000","20:14",,,"40.801285","-73.95394","
+,  
+(40.801285, -73.95394)","7 AVENUE",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4407765","Sedan","Sedan",,,
+"2021-04-14T00:00:00.000","15:16","BROOKLYN","11220","40.633976","-74.02211","
+,  
+(40.633976, -74.02211)",,,"459       BAY RIDGE AVENUE","1","0","0","0","0","0","1","0","Passing Too Closely","Unspecified",,,,"4407821","Sedan","Sedan",,,
+"2021-04-15T00:00:00.000","19:30",,,"40.670296","-73.997604","
+,  
+(40.670296, -73.997604)","GOWANUS EXPY (BQE)",,,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4407971","Sedan",,,,
+"2021-04-16T00:00:00.000","13:15",,,"40.66423","-73.919106","
+,  
+(40.66423, -73.919106)","HOWARD AVENUE","BLAKE AVENUE",,"0","0","0","0","0","0","0","0","View Obstructed/Limited","Driver Inexperience",,,,"4408071","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-04-14T00:00:00.000","21:08","BRONX","10451","40.817696","-73.922615","
+,  
+(40.817696, -73.922615)",,,"558       MORRIS AVENUE","0","0","0","0","0","0","0","0","Steering Failure","Unspecified",,,,"4407430","Station Wagon/Sport Utility Vehicle","Sedan",,,
+"2021-04-13T00:00:00.000","20:34","BROOKLYN","11213","40.668495","-73.925606","
+,  
+(40.668495, -73.925606)","EASTERN PARKWAY","BUFFALO AVENUE",,"1","0","1","0","0","0","0","0","Failure to Yield Right-of-Way",,,,,"4408259","Sedan",,,,
+"2021-04-13T00:00:00.000","14:10","QUEENS","11434","40.662476","-73.768326","
+,  
+(40.662476, -73.768326)",,,"146-22    BREWER BOULEVARD","0","0","0","0","0","0","0","0","Unspecified",,,,,"4407049","Sedan",,,,
+"2021-04-14T00:00:00.000","22:00",,,,,,"ROCKAWAY BOULEVARD","225 STREET",,"3","0","0","0","0","0","3","0","Unspecified",,,,,"4408369","Station Wagon/Sport Utility Vehicle",,,,
+"2021-04-15T00:00:00.000","12:16","BRONX","10460","40.841087","-73.86447","
+,  
+(40.841087, -73.86447)","EAST TREMONT AVENUE","WHITE PLAINS ROAD",,"0","0","0","0","0","0","0","0","Traffic Control Disregarded","Unspecified",,,,"4407592","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-15T00:00:00.000","18:15","BROOKLYN","11211","40.70955","-73.95887","
+,  
+(40.70955, -73.95887)","HAVEMEYER STREET","SOUTH 5 STREET",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4407674","Sedan",,,,
+"2021-04-15T00:00:00.000","19:30",,,"40.733376","-73.86665","
+,  
+(40.733376, -73.86665)","LONG ISLAND EXPRESSWAY",,,"1","0","0","0","0","0","1","0","Passing or Lane Usage Improper","Unspecified",,,,"4407708","Sedan","Sedan",,,
+"2021-04-14T00:00:00.000","21:04","BROOKLYN","11206","40.700356","-73.95732","
+,  
+(40.700356, -73.95732)",,,"693       BEDFORD AVENUE","1","0","0","0","0","0","1","0","Drugs (illegal)","Unspecified",,,,"4408396","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-14T00:00:00.000","1:40",,,"40.83801","-73.87329","
+,  
+(40.83801, -73.87329)","BRONX RIVER PARKWAY",,,"0","0","0","0","0","0","0","0","Other Vehicular","Unsafe Speed",,,,"4407152","Sedan","Sedan",,,
+"2021-04-16T00:00:00.000","18:00",,,"40.66584","-73.75551","
+,  
+(40.66584, -73.75551)","BELT PARKWAY",,,"0","0","0","0","0","0","0","0","Reaction to Uninvolved Vehicle","Unspecified",,,,"4407862","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-14T00:00:00.000","8:30",,,,,,"WHITESTONE EXPRESSWAY",,,"0","0","0","0","0","0","0","0","Following Too Closely","Unspecified",,,,"4407435","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-15T00:00:00.000","12:05",,,"40.761436","-73.76995","
+,  
+(40.761436, -73.76995)","BELL BOULEVARD",,,"1","0","1","0","0","0","0","0","Driver Inattention/Distraction",,,,,"4407636","Station Wagon/Sport Utility Vehicle",,,,
+"2021-04-16T00:00:00.000","11:00","QUEENS","11368","40.74958","-73.86541","
+,  
+(40.74958, -73.86541)",,,"100-10    ROOSEVELT AVENUE","1","0","0","0","1","0","0","0","Turning Improperly","Unspecified",,,,"4407792","Station Wagon/Sport Utility Vehicle","Bike",,,
+"2021-04-16T00:00:00.000","17:00","QUEENS","11366","40.73197","-73.78651","
+,  
+(40.73197, -73.78651)","73 AVENUE","184 STREET",,"5","0","0","0","0","0","5","0","Traffic Control Disregarded","Unspecified",,,,"4407853","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-16T00:00:00.000","12:00",,,"40.76249","-73.839584","
+,  
+(40.76249, -73.839584)","VAN WYCK EXPWY",,,"0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4408205","Box Truck","Dump",,,
+"2021-04-16T00:00:00.000","20:27",,,"40.668507","-73.779625","
+,  
+(40.668507, -73.779625)","140 AVENUE","155 STREET",,"0","0","0","0","0","0","0","0","Unspecified",,,,,"4407945","Sedan",,,,
+"2021-04-15T00:00:00.000","18:25","BROOKLYN","11203","40.638268","-73.93187","
+,  
+(40.638268, -73.93187)",,,"1411      SCHENECTADY AVENUE","0","0","0","0","0","0","0","0","Unspecified","Unspecified",,,,"4408118","Sedan","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-12T00:00:00.000","16:08","BROOKLYN","11221","40.696735","-73.93481","
+,  
+(40.696735, -73.93481)","BROADWAY","STUYVESANT AVENUE",,"1","0","0","0","0","0","1","0","Unspecified","Unspecified",,,,"4408242","Station Wagon/Sport Utility Vehicle","Station Wagon/Sport Utility Vehicle",,,
+"2021-04-14T00:00:00.000","11:55",,,"40.870823","-73.8721","
+,  
+(40.870823, -73.8721)","BRONX RIVER PARKWAY",,,"0","0","0","0","0","0","0","0","Aggressive Driving/Road Rage","Unspecified",,,,"4407563","Sedan",,,,
+"2021-04-14T00:00:00.000","1:30",,,"40.574867","-74.00069","
+,  
+(40.574867, -74.00069)","WEST 35 STREET",,,"0","0","0","0","0","0","0","0","Driver Inattention/Distraction","Unspecified",,,,"4408098","Sedan","Sedan",,,
