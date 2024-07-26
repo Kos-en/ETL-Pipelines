@@ -1,6 +1,6 @@
 #ignore node modules
 node_modules/
 #ignore os_specific files
-.DS_store
+.DS_Store
 #ignore IDE settings 
 .vscode/
