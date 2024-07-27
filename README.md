@@ -28,3 +28,46 @@ def source_data_from_table(db_name, user, password, host, port, table_name):
 View the rest of my notebook with other different ways of extracting data from data sources and grouping them into one using the function extracted_data() to form a simple extraction pipeline. [Extract.ipynb](Extract.ipynb)
 
 ### Transformation of data.
+Transformation process in a pipeline is arguably the most difficult and rewarding since you get to see ur data come to life before loading it into data target.
+In this section I learnt how to transform data using python and its library pandas.I also learnt logging in python where I used a third party logger called loguru to track errors in pipeline.
+During the process of making the pipeline I first learnt how to build a transformation pipeline that uses only one function.I also learnt how to separate this function into different smaller functions that helped create an easy to understand pipeline and one that I could easily find errors and scale.
+A snippet of the code used:
+```python
+
+#function for loading data
+def loading_data(crash_data):
+     df=pd.read_csv(crash_data)
+     return df
+
+#loading pipeline
+def data_pipeline(crash_file,vehicle_crash_file):
+    df_crash=pd.DataFrame()
+    df_vehicle=pd.DataFrame()
+    try:
+        df_crash=loading_data(crash_file)
+        df_vehicle=loading_data(vehicle_crash_file)
+    except Exception as e:
+        logger.info(f'Exception in reading data file:{e}')
+    finally:
+        return df_crash,df_vehicle 
+
+ #function for merging crashes and vehicle_crashes data
+def merging_tables(df_crashes,df_vehicles):
+    df = df_crashes.merge(df_vehicles, how='left', on='crash_record_id', suffixes=('_left','_right')) 
+    df = df.groupby('vehicle_type').agg({'crash_record_id': 'count'}).reset_index() 
+    return df
+
+    #merging pipeline
+def merge_pipeline(df_crash,df_vehicle):
+    try:
+        df_merged=merging_tables(df_crash,df_vehicle)
+    except Exception as e:
+        logger.info('Exception in merging tables{e}') 
+    finally:
+        return df_merged 
+
+```
+Separating each function like this helps with modularity of code.
+The rest of the code can be found here ->[transform.ipynb](python/transform.ipynb)
+
+
