@@ -4,3 +4,5 @@ node_modules/
 .DS_Store
 #ignore IDE settings 
 .vscode/
+#logging files
+*.log
