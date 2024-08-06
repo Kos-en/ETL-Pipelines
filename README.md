@@ -70,4 +70,73 @@ def merge_pipeline(df_crash,df_vehicle):
 Separating each function like this helps with modularity of code.
 The rest of the code can be found here ->[transform.ipynb](python/transform.ipynb)
 
+### Loading data
+This is the final step in an etl pipeline. Here the data is loaded into a data target eg data warehouse where the data is stored.This stored data is normally used for data analytics and even Machine learning thus showing the importance of have accurate,clean and consistent data. Below is a simple loading process into a Relational database management system(Postgresql)
+Here I created a SCHEMA and table using simple sql queries.
+```SQL
+
+CREATE SCHEMA chicago_dmv;
+
+CREATE TABLE chicago_dmv.Vehicle
+(             
+    crash_unit_id INT PRIMARY KEY,
+    crash_record_id TEXT,
+    rd_no TEXT,
+    crash_date TIMESTAMP,
+    unit_no INT,
+    unit_type VARCHAR(255),
+    vehicle_id INT,
+    make  TEXT,
+    model  TEXT,
+    lic_plate_state VARCHAR(255),
+    vehicle_defect  VARCHAR(255),
+    maneuver  VARCHAR(255),
+    occupant_cnt  FLOAT   
+);
+
+CREATE TABLE chicago_dmv.Crash
+(
+    crash_record_id TEXT,
+    crash_date TIMESTAMP,
+    posted_speed_limit INT,
+    traffic_control_device VARCHAR(255),
+    weather_condition VARCHAR(255),
+    lighting_condition VARCHAR(255),
+    crash_hour INT,
+    crash_day_of_week INT,
+    crash_month INTEGER,
+    latitude FLOAT,
+    longitude FLOAT
+);
+ALTER TABLE chicago_dmv.Vehicle
+ALTER COLUMN vehicle_id TYPE FLOAT 
+
+ALTER TABLE chicago_dmv.Crash
+ADD PRIMARY KEY (crash_record_id);
+
+SELECT * FROM chicago_dmv.Crash
+SELECT * FROM chicago_dmv.vehicle
+```
+Here I used a loop to iterate through the index and row of the dataframe df_new_vehicle_crashes.It iterates through each index and stores each value of each column per individual row to the tuple values_vehicle which then  loads them to postgresql
+```Python
+#loading data to postgres
+for index , row in df_new_vehicle_crashes.iterrows():
+    values_vehicle = (
+            row['crash_unit_id'],
+            row['crash_record_id'],
+            row['rd_no'],
+            row['crash_date'],
+            row['unit_no'],
+            row['unit_type'],
+            row['vehicle_id'],
+            row['make'],
+            row['model'],
+            row['lic_plate_state'],
+            row['vehicle_defect'],
+            row['maneuver'],
+            row['occupant_cnt']
+    )
+    cur.execute(insert_query_vehicle, values_vehicle) 
+```
+The rest of the jupyter notebook can be found here ->[load.ipynb](python/load.ipynb)
 
