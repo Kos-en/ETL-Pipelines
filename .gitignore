@@ -6,3 +6,5 @@ node_modules/
 .vscode/
 #logging files
 *.log
+
+chicago_crash_data.session.sql
