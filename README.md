@@ -117,7 +117,8 @@ ADD PRIMARY KEY (crash_record_id);
 SELECT * FROM chicago_dmv.Crash
 SELECT * FROM chicago_dmv.vehicle
 ```
-Here I used a loop to iterate through the index and row of the dataframe df_new_vehicle_crashes.It iterates through each index and stores each value of each column per individual row to the tuple values_vehicle which then  loads them to postgresql
+Here I used a loop to iterate through the index and row of the dataframe df_new_vehicle_crashes.It iterates through each index and stores each value of each column per individual row to the tuple values_vehicle which then  loads them to postgresql using the cursor.
+
 ```Python
 #loading data to postgres
 for index , row in df_new_vehicle_crashes.iterrows():
