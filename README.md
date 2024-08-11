@@ -168,9 +168,9 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 ## How I Setup up the project including Installation
 
 ```bash
-1. Installing docker and creating an repo with the the files in step 2.
+1. Installing docker and creating a repo with the the files in step 2.
 
-2.Ensure you have the necessary files to run airflow and docker.
+2.Ensure you have the necessary files to run airflow and docker in ur repo.
 - **docker-compose.yaml**(This can be found in Apache Airflow website but you may need to make changes for it to suite you.)
 - **Dockerfile**
 - **.env**
