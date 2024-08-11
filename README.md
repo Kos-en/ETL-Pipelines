@@ -165,18 +165,13 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 - **PostgreSQL Database**: Stores the processed data.
 - **Pgadmin**: Used to view the stored data.
 
-## Setup and Installation
+## How I Setup up the project including Installation
 
 ```bash
-1. Clone the Repository
-# This command will create a local copy of the repository on your machine.
-https://github.com/Kos-en/ETL-Pipelines.git
-
-# Change to the project directory
-cd ETL-Pipelines
+1. Installing docker and creating an repo with the the files in step 2.
 
 2.Ensure you have the necessary files to run airflow and docker.
-- **docker-compose.yaml**
+- **docker-compose.yaml**(This can be found in Apache Airflow website but you may need to make changes for it to suite you.)
 - **Dockerfile**
 - **.env**
 - **dags/first_dag.py**
@@ -184,11 +179,11 @@ cd ETL-Pipelines
 - **.logs**
 
 3. Build and Start Docker Containers
-# Build the Docker images and start the services defined in docker-compose.yaml.
+# Build the Docker images that youll use and start the services defined in docker-compose.yaml.
 docker compose up airflow-init
 docker-compose up --build
 
-4. Access Apache Airflow
+4. Accessing Apache Airflow
 Open your web browser and go to http://localhost:8080 to access the Apache Airflow web interface.
 
 Use the default credentials (verify in docker-compose.yaml if different):
