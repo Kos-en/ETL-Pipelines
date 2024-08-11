@@ -175,9 +175,13 @@ https://github.com/Kos-en/ETL-Pipelines.git
 # Change to the project directory
 cd ETL-Pipelines
 
-2. Configure Environment Variables
-# Create a .env , .logs and .dags file in the root of your project directory with the necessary environment variables.
-
+2.Ensure you have the necessary files to run airflow and docker.
+- **docker-compose.yaml**
+- **Dockerfile**
+- **.env**
+- **dags/first_dag.py**
+- **.data**
+- **.logs**
 
 3. Build and Start Docker Containers
 # Build the Docker images and start the services defined in docker-compose.yaml.
