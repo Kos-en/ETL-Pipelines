@@ -1,4 +1,4 @@
- # LEARNING HOW TO BUILD SCALABLE AND EFFICIENT ETL PIPELINES WITH PYTHON. 
+ # LEARNING HOW TO BUILD SCALABLE AND EFFICIENT ETL PIPELINES WITH PYTHON AND        AIRFLOW 
 
  ## OVERVIEW.
 My facination of data inspired me to start my journey into understanding the nitty-gritty of how companies use etl pipelines to improve their business operations through insightful analysis and machine learning.In this repository/project I will be showing my progress in learning Extraction ,Transformating and Loading of data. I'll document each data pipeline process individually and at the end combine all what iv learnt to build a scalable ,secure and efficient ETL pipeline using Python and AWS.
