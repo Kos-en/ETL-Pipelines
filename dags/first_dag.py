@@ -4,8 +4,6 @@ from airflow.providers.postgres.operators.postgres import PostgresOperator
 from airflow.hooks.postgres_hook import PostgresHook
 from datetime import datetime, timedelta
 import pandas as pd
-
-from sqlalchemy import create_engine
 import logging
 
 # Configure logging
@@ -58,7 +56,7 @@ def transform_data(**context):
         vehicle_mapping = {'vehicle_type': 'vehicletypes'}
         df_agg = df_agg.rename(columns=vehicle_mapping)
         
-        # Push the transformed DataFrame to XCom
+        # Push the transformed DataFrame to temporary file
         df_agg.to_csv('/tmp/agg_data.csv', index=None, header=False)
     except Exception as e:
         logger.error(f"An error occurred during data transformation: {e}")
@@ -68,7 +66,7 @@ def load_data():
     # Connect to the Postgres connection
     hook = PostgresHook(postgres_conn_id = 'postgres')
 
-    # Insert the data from the CSV file into the postgres database
+    # Insert the data from the the temporary CSV file into the postgres database
     hook.copy_expert(
         sql = "COPY pipeline FROM stdin WITH DELIMITER as ','",
         filename='/tmp/agg_data.csv'
