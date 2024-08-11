@@ -94,8 +94,8 @@ with DAG(
         sql='''
             drop table if exists pipeline;
             create table pipeline(
-                vehicletypes TEXT,
-                crash_record_id INT
+                vehicle_types TEXT,
+                crash_record_count INT
             );
         '''
     )
